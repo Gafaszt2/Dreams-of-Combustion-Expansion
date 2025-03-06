@@ -1,0 +1,3579 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255],
+//		"innerColor": [255,255,255]
+},
+{
+	"name": "Circassia",
+	"leaderName": "Imam Shamil",
+	"adjective": ["Circassia"],
+	"startBias":["Mountain"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [5, 153, 0],
+	"innerColor": [255, 249, 207],
+	"uniqueName": "Russian Expansion Resistance",
+	"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+	"Gain [12]-[30] [Culture] <upon entering a Golden Age>","Gain [20]-[35] [Culture] <upon entering a Golden Age> <upon constructing [Culture]>","[+1] Movement <for [Ranger] units>","[+1] Movement <for [Worker] units>"],
+	"cities": ["Nalchik",
+"Maikop",
+"Sochi",
+"Cherkessk",
+"Kislovodsk",
+"Nalchik",
+"Vladikavkaz",
+"Tuapse",
+"Belorechensk",
+"Armavir"],
+	"spyNames": ["Saki"]
+},
+{
+	"name": "Metis",
+	"leaderName": "Louis Riel",
+	"adjective": ["Metis"],
+	"startBias":["Forest"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [0, 71, 186],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Chosen from the Flock",
+	"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+	"[+30]% Production when constructing [Faith] buildings [in all cities]","[+1 Faith] from all [Faith] buildings"],
+	"cities": ["Batoche", "Winnipeg", "Pembina", "Duck Lake", "St. Laurent", "St. Norbert", "Fish Creek", "Frog Lake", "Nipawin", "La Ronge", "Regina"],
+	"spyNames": ["Saki"]
+},
+{
+	"name": "Murrinh Patha",
+	"leaderName": "Nemarluk",
+	"adjective": ["Murrinh Patha"],
+	"startBias":["Marsh"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [197, 219, 31],
+	"innerColor": [51, 44, 40],
+	"uniqueName": "Ngoiminggi",
+	"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [ABAU Focus] [in capital] <starting from the [Second World War]>",
+	"When defeating a [{Land}] unit, earn [20] Gold and recruit it <with [30]% chance>","[+1 Food] from all [Food] buildings","[+1 Food] from all [Production] buildings"],
+	"cities": ["Werntek Nganaiyi", "Wadeye", "Nganmarriyanga", "Thamarur", "Yambarnyi", "Nemarluk", "Thuykem", "Bullo River", "Kultjill", "Legune", "Auvergne", "Litchfield", "Mulyung"],
+	"spyNames": ["Saki"]
+},
+
+
+
+
+
+
+
+
+
+
+
+{
+		"name": "Mongolia",
+		"leaderName": "Bogd Khan",
+		"adjective": ["Mongolia"],
+		"startBias":["Mountain"],
+		"preferredVictoryType": "Destruction",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 216, 125],
+		"innerColor": [44, 78, 133],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Elevated by the Many",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Mongolia Focus] [in capital] <starting from the [Second World War]>",
+		"When defeating a [{Barbarian} {Land}] unit, earn [60] Gold and recruit it <with [100]% chance>"],
+		"cities": ["Niislel Khüree", "Burga", "Tsetserleg", "Tsagaan Baishin", "Uliastai", "Khovd", "Manjusri", "Kharkorin", "Bayan Tümen", "Choibalsan", "Ölgii", "Ulaangom", "Arvaikheer", "Bayankhongor", "Öndörkhaan", "Zuunmod", "Zamyn-Üüd", "Mörön", "Gandan", "Khatgal", "Choir", "Hailar", "Erdene Zuu"],
+        "spyNames": ["Saki"]
+    },
+{
+		"name": "Miskito People",
+		"leaderName": "Robert Charles Frederic",
+		"adjective": ["Miskito People"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Destruction",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 255, 255],
+		"innerColor": [191, 67, 0],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Miskito Coast",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Food] from every [Hunter Lodge]","[+1 Production] from every [Fishing Boats]","[+1 Food] from every [Fishing Boats]"],
+		"cities": ["Bluefields", "Sandy Bay", "Puerto Cabezas", "Trujillo", "Pearl Key Lagoon", "Kukra Hill", "Matina", "Black River", "Gracias a Dios", "Serapaqui", "Greytown", "El Tigre", "Mulukuku", "Prinzapolka"],
+        "spyNames": ["Saki"]
+    },
+
+{
+		"name": "Apache",
+		"leaderName": "Geronimo",
+		"adjective": ["Apache"],
+		"startBias":["Plains","Desert"],
+		"preferredVictoryType": "Destruction",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 246, 222],
+		"innerColor": [138, 115, 56],
+		"favoredReligion": "Wakan Tanka",
+		"uniqueName": "Once They Moved Like the Wind",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"No movement cost to pillage <for [Light Cavalry] units>","[+1] Movement <for [Light Cavalry] units>","[-50]% maintenance costs <for [Light Cavalry] units>"],
+		"cities": ["Tiiis Tseba", "Chichiil Bidagoteel", "Teehach", "Tichlog", "Kiis Chiintiidn", "Ts Tsskidn", "Dzi Likesilan", "Tsebainasti", "Hakiy", "Ts L' tah", "Naleei Danakaiy", "T' Yadnlin", "Nagonltin", "Chichiil da'kizh", "Izee Dighin", "Ts Dadlit'as", "T' Edn", "Tse Nanesnasdz", "Ts Ya Kih Nastl"],
+        "spyNames": ["Saki"]
+    },
+{
+		"name": "Czechoslovakia",
+		"leaderName": "Tomáš Masaryk",
+		"adjective": ["Czechoslovakia"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Political",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [168, 50, 50],
+		"innerColor": [232, 247, 208],
+		"favoredReligion": "Orthodox",
+		"uniqueName": "Golden Republic",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every specialist [in all cities]","[+2 Culture] from every specialist [in all cities] <starting from the [First World War]>"],
+		"cities": ["Prague", "Bratislava", "Brno", "Ostrava", "Kosice", "Plzen", "Liberec", "Uzhorod", "Presov", "Zilina", "Olomouc", "Ústí nad Labem", "Ceské Budejovice", "Banská Bystrica", "Nitra"],
+        "spyNames": ["Saki"]
+    },
+{
+		"name": "North Korea",
+		"leaderName": "Kim Il-Sung",
+		"adjective": ["NorthKorean"],
+		"startBias":["Tundra"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of north Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [46, 46, 45],
+		"innerColor": [252, 195, 8],
+		"favoredReligion": "Taoism",
+		"uniqueName": "Hermit Republic",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Science] from every [Strategic resource]","[+1 Culture] from every [Snow]"],
+		"cities": ["Pyongyang", "Hamhung","Chongjin","Nampo","Wonsan","Tanchon","Sinuiju","Kaechon","Kaesong","Sunchon","Sariwon","Pyongsong","Kanggye","Anju","Haeju","Kimchaek","Hyesan","Chongju"],
+        "spyNames": ["Saki"]
+    },
+
+{
+		"name": "Seminole People",
+		"leaderName": "Coacoochee",
+		"adjective": ["Seminole"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [27, 54, 34],
+		"innerColor": [127, 130, 66],
+                "favoredReligion": "Baptist",
+		"uniqueName": "Runaway Slaves",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Free [Captured American Child] appears <upon discovering [Rifling] technology>","[-2 Gold] from every [Slave Labor Plantation]","[+2 Production] from every [Heavy Labor Plantation]"],
+		"cities": ["Everglades","Apalachee","Timucua","Creek","Muskogean"],
+	}
+{
+		"name": "Indonesia",
+		"leaderName": "Sukarno",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [150, 224, 198],
+		"innerColor": [59, 23, 66],
+                "favoredReligion": "Islam",
+		"uniqueName": "Pancasila",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Production] per [2] social policies adopted","[+1 Food] per [1] social policies adopted"],
+		"cities": ["Jakarta", "Surabaya", "Yogyakarta", "Medan", "Bandung", "Semarang", "Palembang", "Makassar", "Pekanbaru", "Bandar Lampung", "Batam", "Padang", "Malang", "Denpasar", "Samarinda", "Banjarmasin", "Serang", "Balikpapan", "Pontianak", "Jambi", "Surakarta", "Tanjung Pinang", "Pangkal Pinang", "Gorontalo", "Ternate", "Metro"],
+	},
+{
+		"name": "Cuba",
+		"leaderName": "Fidel Castro",
+		"adjective": ["Cuban"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [161, 213, 240],
+		"innerColor": [207, 23, 2],
+                "favoredReligion": "Catholic",
+		"uniqueName": "¡Viva la Revolución!",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+10]% [Happiness] [in all cities] <when at war>", "[+10]% [Gold] [in all cities] <when at war>","[+10]% [Food] [in all cities] <when at war>","[+5]% [Production] [in all cities] <when at war>"],
+		"cities": ["Havana", "Santiago de Cuba", "Camagüey", "Guantanamo", "Pinar del Rio", "Holguin", "Cienfuegos", "Santa Clara", "Matanzas", "Bayamo", "Sancti Spiritus", Florida, Moron, Ciego de Avila, Las Tunas, Artemisa, Nueva Gerona, Cardenas, Baracoa, Palma Soriano, Varadero, Manzanilla, Colon, Contramaestro, Sandino, La Maya, Guanabacoa, Baracoa, Guines, Sagua La Grande"],
+	},
+{
+		"name": "Yugoslavia",
+		"leaderName": "Josip Broz Tito",
+		"adjective": ["Yugoslav"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [69, 10, 3],
+		"innerColor": [169, 171, 212],
+                "favoredReligion": "Orthodox",
+		"uniqueName": "Hej Slaveni",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Gold, +2 Production] per every [5] [Culture]","New [Military] units start with [15] XP [in all cities] <upon declaring war with a major Civilization>"],
+		"cities": ["Belgrade", "Zagreb", "Sarajevo", "Skopje", "Ljubljana", "Titograd", "Split", "Pristina", "Novi Sad", "Nis", "Banja Luka", "Rijeka", "Maribor", "Mostar", "Osijek", "Zadar", "Kragujevac", "Tuzla", "Subotica", "Pula", "Zenica", "Prizren", "Mitrovica", "Niksic", "Cacak", "Bitola", "Kraljevo", "Kumanovo", "Novi Pazar"],
+	}
+
+        {
+		"name": "Mughal Empire",
+		"leaderName": "Akbar",
+		"adjective": ["Mughals"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [57, 152, 108],
+		"innerColor": [236, 255, 187],
+                "favoredReligion": "Hinduism",
+		"uniqueName": "Conquest of Rajputana",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[-50]% maintenance costs <for [Siege] units>","[+33]% Strength <when fighting in [Hill] tiles>"],
+		"cities": ["Agra","Delhi","Lahore","Fatehpur Sikri","Dhaka","Srinagar","Multan","Allahabad","Kabul"],
+	}
+{
+		"name": "Bukhara",
+		"leaderName": "Shah Murad",
+		"adjective": ["Bukhara"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [47, 159, 77],
+		"innerColor": [247, 246, 181],
+                "favoredReligion": "Islam",
+		"uniqueName": "The Sinless Emir",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <upon founding a Pantheon>","Gain a free [Namazgah] [in all cities] <upon conquering a city>"],
+		"cities": ["Bukhara", "Samarkand", "Qarshi", "Balkh", "Shakhrisabz", "Chardjuy", "Hisor", "G'uzor", "Kattakurgan", "Sheberghan", "Khujand", "Jizzakh", "Maimana", "Chirakchi", "Denau", "Kulab", "Nurota", "Termez", "Kurganteppa", "Karakul", "Kermine", "Vobkent", "Uroteppa"],
+	}
+{
+		"name": "Dervish State",
+		"leaderName": "Mohammed Hassan",
+		"adjective": ["Dervish"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [16, 48, 29],
+		"innerColor": [250, 10, 34],
+                "favoredReligion": "Islam",
+		"uniqueName": "The Horn Resistance",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Faith] from every [Fort]","[+2 Faith] from every [Citadel]","[Light Cavalry] units gain the [Charge] promotion <before the [First World War]>"],
+		"cities": ["Taleh", "Buuhoodle", "Las Anod", "Beledweyne", "Galkayo", "Werder", "Galdogob", "Garoowe", "Dhusamareb", "Mustahil", "Kalabaydh", "Bacadweyn", "Geladin", "Ferfer", "Gori Rit", "Farlibaax", "Dudub", "Xaaballas", "Mugul", "Badhan", "Erigavo", "Aynabo"],
+	}
+
+        {
+		"name": "Mangkunegaran",
+		"leaderName": "Mangkunegara IV",
+		"adjective": ["Mangkuneragan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [163, 235, 79],
+		"innerColor": [212, 62, 12],
+                "favoredReligion": "Islam",
+		"uniqueName": "Wedhatama",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"Free [Great Artist] appears <upon discovering [Industrialization] technology>","[+2 Faith] from all [Culture] buildings","Provides [1] [Sugar] <with [100]% chance>"],
+		"cities": ["Mangkunegara","Surakarta","Saidabad","Pakubuwonograd","Solo Mangku"],
+	}
+
+{
+		"name": "Tahiti",
+		"leaderName": "Pomare III",
+		"adjective": ["Tahiti"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [31, 72, 204],
+		"innerColor": [204, 216, 252],
+                "favoredReligion": "Manaism",
+		"uniqueName": "Celestial Navigation",
+		"uniques": ["Gain a free [First PO Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second PO Focus] [in capital] <starting from the [First World War]>","Gain a free [Third PO Focus] [in capital] <starting from the [Second World War]>",
+		"[+30]% Production when constructing [Water] units [in capital]","[+15]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Afaahiti",
+"Afatauri",
+"Faaone",
+"Fa´a´ ?",
+"Hitiaa",
+"Mahaena",
+"Mataiea",
+"Papeari",
+"Papeete",
+"Papenoo",
+"Pueu",
+"Tautira",
+"Teahupo o",
+"Tepati",
+"Tiarei",
+"Toahotu",
+"Vairao",
+"Faa´a",
+"Pirae",
+"Punaauia"],
+	},
+{
+		"name": "Samoa",
+		"leaderName": "Lauaki Namulauulu Mamoe",
+		"adjective": ["Samoa"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [118, 247, 114],
+		"innerColor": [60, 69, 60],
+                "favoredReligion": "Manaism",
+		"uniqueName": "Ava Ceremony",
+		"uniques": ["Gain a free [First PO Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second PO Focus] [in capital] <starting from the [First World War]>","Gain a free [Third PO Focus] [in capital] <starting from the [Second World War]>",
+		"[-20]% Food consumption by specialists [in all cities]","[-25]% Culture cost of adopting new Policies"],
+		"cities": ["Apia",
+"Salelologa",
+"Afega",
+"Afiamalu",
+"Alafua",
+"Alamagoto",
+"Aleipata",
+"Aleisa",
+"Amaile",
+"Amouli",
+"Aopo",
+"Apai",
+"Apolima Tai",
+"Apolima Uta",
+"Asaga",
+"Asau",
+"Auala",
+"A’ufaga",
+"Aele",
+"Elisefou"],
+	},
+{
+		"name": "Rapa Nui",
+		"leaderName": "King Hotu Matu´a",
+		"adjective": ["Rapa Nui"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 32, 32],
+		"innerColor": [235, 64, 52],
+                "favoredReligion": "Manaism",
+		"uniqueName": "Easter Island",
+		"uniques": ["Gain a free [First PO Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second PO Focus] [in capital] <starting from the [First World War]>","Gain a free [Third PO Focus] [in capital] <starting from the [Second World War]>",
+		"[+35]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Hanga Roa","Mataveri","Anaken´a","Rano Raraku","Ahu Tongariki","Rano Kau","Orongo","Ahu Akivi","Puna Pau","Ahu Vinapu","Ahu Te Pito Kura","Ahu Nau Nau"],
+	},
+{
+		"name": "Hawaii",
+		"leaderName": "King Kamehameha III",
+		"adjective": ["Hawaiian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [76, 18, 148],
+		"innerColor": [250, 225, 244],
+                "favoredReligion": "Manaism",
+		"uniqueName": "Aloha Spirit",
+		"uniques": ["Gain a free [First PO Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second PO Focus] [in capital] <starting from the [First World War]>","Gain a free [Third PO Focus] [in capital] <starting from the [Second World War]>",
+		"Enables embarkation for land units <starting from the [Industrial Era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Industrial Era]>",
+ "[+1] Sight <for [Embarked] units>"],
+		"cities": ["Honolulu",
+"Hilo",
+"Kailua",
+"Kapolei",
+"Lihue",
+"Kahului",
+"Lahaina",
+"Waipahu",
+"Kaneohe",
+"Pearl City",
+"Wailuku",
+"Mililani Town",
+"Kihei",
+"Makakilo",
+"Wahiawa",
+"Ewa Beach",
+"Schofield Barracks"],
+	},
+{
+		"name": "Tui Tonga",
+		"leaderName": "Aho eitu",
+		"adjective": ["Tongan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [166, 5, 5],
+		"innerColor": [173, 234, 237],
+                "favoredReligion": "Manaism",
+		"uniqueName": "Sea Warriors",
+		"uniques": ["Gain a free [First PO Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second PO Focus] [in capital] <starting from the [First World War]>","Gain a free [Third PO Focus] [in capital] <starting from the [Second World War]>",
+		"[+2] Sight <for [Embarked] units>","[+35]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Nuku´alofa","Mu´a","Neiafu","Vaini","Nukunuku"],
+	},
+{
+		"name": "Buganda",
+		"leaderName": "Kabaka Mutesa I",
+		"adjective": ["Buganda"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [133, 4, 4],
+		"innerColor": [235, 247, 124],
+                "favoredReligion": "Catholic",
+		"uniqueName": "Empire of the Great Lakes",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Lakes]","[+2 Culture] from every [Great Improvement]"],
+		"cities": ["Kampala","Entebbe","Jinja","Masaka","Mubende","Mukono","Kireka","Nansana","Kira","Lugazi","Mityana","Mpigi","Bombo","Wobulenzi","Buikwe"],
+	},
+{
+		"name": "Ashanti Empire",
+		"leaderName": "Sumaila Ndewura Jakpa",
+		"adjective": ["Gonja"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [252, 28, 88],
+                "favoredReligion": "Catholic",
+		"uniqueName": "Dutch´s Slave Trade",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Gold] from every [Bonus resource]","[+1 Food] from every [Bonus resource]"],
+		"cities": ["Kumasi","Denkyira","Bonoman","Akan","Togo","Ivory Coast"],
+	},
+{
+		"name": "Gonja Kingdom",
+		"leaderName": "Sumaila Ndewura Jakpa",
+		"adjective": ["Gonja"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [180, 202, 237],
+		"innerColor": [5, 122, 73],
+                "favoredReligion": "Islam",
+		"uniqueName": "Mali´s Successor",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Faith] from every [Bonus resource]","[+1 Gold] from every [Desert]"],
+		"cities": ["Yagbum","Salaga","Bole","Kpembe","Tuweli","Wasipe","Kusugu"],
+	},
+{
+		"name": "Langkat",
+		"leaderName": "Abdul Aziz",
+		"adjective": ["Langkat"],
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [191, 250, 177],
+		"innerColor": [163, 46, 46],
+                "favoredReligion": "Islam",
+		"uniqueName": "Oil and Rubber Royalties",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Slave Labor Plantation]","[+1 Culture] from every [Heavy Labor Plantation]","[+1 Culture] from every [Oil well]"],
+		"cities": ["Tanjung Pura", "Binjai", "Stabat", "Bahorok", "Salapian", "Kuala", "Sei Bingai", "Selesai", "Wampu", "Secanggang", "Hinai", "Padang Tualang", "Gebang", "Babalan", "Pangkalan Susu", "Besitang", "Sei Lepan", "Brandan Barat", "Batang Serangan", "Sawit Seberang", "Sirapit", "Kutambaru", "Pematang Jaya"],
+	},
+{
+		"name": "The Bunuba",
+		"leaderName": "Jandamarra",
+		"adjective": ["Bunuba"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [147, 189, 182],
+		"innerColor": [18, 18, 46],
+		"uniqueName": "Windjana Resistance",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [ABAU Focus] [in capital] <starting from the [Second World War]>",
+		"Earn [55]% of killed [Military] unit's [Strength] as [Faith]"],
+		"cities": ["Junjuwa","Daringunaya","Bandilngan","Dimalurru", "Yaranggi", "Baraa", "Jijidu", "Yuwa", "Miluwindi", "Mindi Rardi", "Gurang.ngadja", "Dawadiya", "Danggu", "Biridu", "Balili", "Kurnangki", "Bungardi", "Galamunda", "Malarabah", "Yirimalay", "Buruwa", "Jimbalakudunj"],
+	},
+{
+		"name": "Iceland",
+		"leaderName": "Jón Sigurðsson",
+		"adjective": ["Iceland"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [5, 63, 84],
+		"innerColor": [120, 215, 250],
+		"uniqueName": "Notwithstanding",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[1] free [Explorer] units appear","[+1 Science, +1 Happiness] from all [Science] buildings","[+1 Culture] from every [Geothermal Plant]"],
+		"cities": ["Reykjavík","Akureyri","Kópavogur","Hafnarfjörður","Reykjanesbær","Garðabær","Mosfellsbær"," ?rborg","Akranes","Fjarðabyggð"],
+	},
+{
+		"name": "Great Para",
+		"leaderName": "Maria de Belém",
+		"adjective": ["Pará"],
+		"startBias": ["Jungle","Plains"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [246, 250, 120],
+		"innerColor": [89, 48, 2],
+		"uniqueName": "Heart of the Amazon",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Gold] from all [Food] buildings","[+1 Production] from every [Forest]","[+2 Gold] from every [Jungle]"],
+		"cities": ["Belém","Santarém","Marabá","Castanhal","Abaetetuba","Braganca","Parauapebas","Altamira","Cametá","Barcarena"],
+	},
+{
+		"name": "Yemen",
+		"leaderName": "Yahya Hamid ed-Din",
+		"adjective": ["Yemen"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [230, 216, 219],
+		"innerColor": [33, 61, 37],
+		"uniqueName": "Isolationist Imam",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+15]% Strength <when fighting in [Friendly Land] tiles>","[+2 Culture] [in all cities] <with [1] to [2] neighboring [{improved} {Hill}] tiles>"],
+		"cities": ["Sanaa", "Taiz", "Amr ?n", "Raydah", "Huth", "Sa’dah", "Al Hazm", "Jihanah", "Ma’rib", "Harib", "Al Bayda’", "Rida’", "Ma’bar", "Dhamar", "Yarim", "An Nadirah", "Qa’tabah", "Ibb", "At Turbah", "Mecca", "Hays", "Zabid", "Manakhah", "Al Mansuriyah", "Bajil", "Al Hudaydah", "Hajja", "Ad Dabi", "Ad Zaydiyah", "Salif", "Al Qanawis", "Az Zubrah", "Al Luhayyah Suq ‘Abs", "Harad", "Maydi"],
+	},
+{
+		"name": "Sultanate of Darfur",
+		"leaderName": "Ali Dinar",
+		"adjective": ["Darfur"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [61, 33, 36],
+		"innerColor": [252, 159, 88],
+		"uniqueName": "Ata el-Mawla",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"Provides the cheapest [Faith] building in your first [4] cities for free","[+3 Gold] from every [Holy site]"],
+		"cities": ["Sanaa", "Taiz", "Amr ?n", "Raydah", "Huth", "Sa’dah", "Al Hazm", "Jihanah", "Ma’rib", "Harib", "Al Bayda’", "Rida’", "Ma’bar", "Dhamar", "Yarim", "An Nadirah", "Qa’tabah", "Ibb", "At Turbah", "Mecca", "Hays", "Zabid", "Manakhah", "Al Mansuriyah", "Bajil", "Al Hudaydah", "Hajja", "Ad Dabi", "Ad Zaydiyah", "Salif", "Al Qanawis", "Az Zubrah", "Al Luhayyah Suq ‘Abs", "Harad", "Maydi"],
+	},
+
+{
+		"name": "Inca",
+		"leaderName": "Tupac Amaru II",
+		"adjective": ["Incan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [171, 64, 56],
+		"innerColor": [255, 170, 0],
+		"uniqueName": "Central Andes People",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Mine]","[+1 Faith] from every [Hill]","[+1 Faith] from every [Mountain]","[+1 Gold] from every [Mountain]"],
+		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
+			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
+			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
+			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"],
+	},
+
+{
+		"name": "Sultanate of Morocco",
+		"leaderName": "Sultan Hassan I",
+		"adjective": ["Morocco"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [252, 118, 56],
+		"innerColor": [110, 36, 2],
+                "favoredReligion": "Islam",
+		"uniqueName": "Gateway to Africa",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+20]% Strength <for [Camel] units>","Gifts of Gold to City-States generate [+50]% more Influence","[+50]% resources gifted by City-States"],
+		"cities": ["Fez","Marrakech","Mequinez","Rabat","Tanger","Sale","Uchda","Kenitra","Agadir","Tetuan"],
+	},
+{
+		"name": "Patagonian Confederation",
+		"leaderName": "Orelie Antoine de Tounens",
+		"adjective": ["Patagonia"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [138, 135, 135],
+		"innerColor": [46, 30, 6],
+                "favoredReligion": "Shamanism",
+		"uniqueName": "Land of Giants",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Gain a free [Pillaged Town] [in all cities]","[+2 Food] from every [Great Improvement]"],
+		"cities": ["Coyhaique","El Chalten","El Calafate","Ushuaia","Puyuhuapi","Frutillar","Puerto Montt","Castro","Puerto Natales","Punta Arenas"],
+	},
+{
+		"name": "Sikh Empire",
+		"leaderName": "Maharaja Ranjit Singh",
+		"adjective": ["Sikh"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [161, 237, 222],
+		"innerColor": [0, 49, 133],
+                "favoredReligion": "Buddhism",
+		"uniqueName": "Akal Sahai",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"Enemy [Wounded] units must spend [1] extra movement points when inside your territory",  "[-20]% Gold cost of upgrading", "Earn [50]% of killed [Wounded] unit's [Cost] as [Faith]"],
+		"cities": ["Lahore","Multan","Peshawar","Kashmir","Gujranwala",Amritsar","Jammu"],
+	},{
+		"name": "Maori",
+		"leaderName": "King Tawhiao",
+		"adjective": ["Maori"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
+		"attacked": "It is obvious now that I misjudged you and your true intentions.",
+		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
+		"introduction": "Aloha! Greetings and blessings upon you, friend.",
+		"neutralHello": "Welcome, friend!",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come, let our people feast together!",
+		"outerColor": [63, 77, 99],
+		"innerColor": [250, 180, 67],
+		"favoredReligion": "Manaism",
+		"uniqueName": "Mana Whenua",
+		"uniques": ["Gain a free [First PO Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second PO Focus] [in capital] <starting from the [First World War]>","Gain a free [Third PO Focus] [in capital] <starting from the [Second World War]>",
+		"[+25]% Strength <within [1] tiles of a [Pa]>", "Reveal up to [10] [Coast] within a [20] tile radius","Reveal up to [10] [Ocean] within a [20] tile radius"],
+		"cities": ["Whangarei","Rotorua","Taupo","Napier","Whanganui","Manukau","Waitakere","Porirua","Tauranga","Hamilton"]
+    }, {
+		"name": "Tupi",
+		"leaderName": "Cunhambebe",
+		"adjective": ["Tupi"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "I greet you, stranger! If you are as intelligent and tactful as you are attractive, we'll get along just fine.",
+		"neutralHello": "Hello!",
+		"hateHello": "What do you need?!",
+		"tradeRequest": "How would you like it if I propose this kind of exchange?",
+		"outerColor": [196, 52, 41],
+		"innerColor": [38, 15, 14],
+		"favoredReligion": "Shamanism",
+		"uniqueName": "Migration from the Jungle",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+15]% Production when constructing [Civilian] units [in all cities]","[+3 Culture] [in all cities] <with [3] to [6] neighboring [Jungle] tiles>","[+15]% of excess happiness converted to [Faith]"],
+		"cities": ["Tupinamba","Tamoio","Temimino"
+		"Tupiniquim","Potiguara","Tabajara","Guaraní","Kaingang","Nheengatu"],
+        "spyNames": ["Japa"]
+    },
+{
+		"name": "Burma",
+		"leaderName": "King Mindon Min",
+		"adjective": ["Burma"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [174, 201, 245],
+		"innerColor": [161, 3, 0],
+                "favoredReligion": "Buddhism",
+		"uniqueName": "Golden Land",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+10]% Production when constructing [Water] units [in all cities]","[+5]% of excess happiness converted to [Science]","[-30]% Gold cost of acquiring tiles [in all cities]"],
+		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggi","Bago","Monywa","Myitkyna","Pathein","Sittwe"],
+	},
+{
+		"name": "Colony of New South Wales",
+		"leaderName": "Arthur Phillip",
+		"adjective": ["Australian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [10, 18, 79],
+		"innerColor": [106, 230, 139],
+                "favoredReligion": "Anglican",
+		"uniqueName": "Convict Settlement",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+10]% Production when constructing [Settler] units [in capital]","[+15]% Production when constructing [Civilian] units [in capital]","Production to [Gold] conversion in cities changed by [+20]%"],
+		"cities": ["Sidney","Parramatta","South Wales","Tasmania","South Australia","New Zeland","Northern Territory"],
+	},
+{
+		"name": "Colony of Victoria",
+		"leaderName": "Governor Charles Hotham",
+		"adjective": ["Australian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [10, 18, 79],
+		"innerColor": [114, 212, 247],
+                "favoredReligion": "Anglican",
+		"uniqueName": "Gold Rush",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Hill]","[-10]% Gold cost of acquiring tiles [in all cities]", "Reveal up to [10] [Luxury resource] within a [20] tile radius"],
+		"cities": ["Melbourne","Geelong","Portland","Djab Wurrung","Gunditjmara","Jardwadjali","Wergaia","Wembawemba","Yorta Yorta"],
+	},
+{
+		"name": "French Indochina",
+		"leaderName": "General Ernest Constans",
+		"adjective": ["French"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [38, 98, 255],
+		"innerColor": [231, 255, 201],
+                "favoredReligion": "Taoism",
+		"uniqueName": "Colonial Exploitation",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Slave Labor Plantation]","[+1 Gold] from every [Strategic resource]"],
+		"cities": ["Saigon","Hanoi","Da Lat","Phnom Penh","Vientiane","Zhanjiang","Haiphong","Battambang","Savannakhet","Fort Bayard"],
+	},
+{
+		"name": "Vietnam",
+		"leaderName": "Emperor Tu Duc",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [139, 181, 98],
+		"innerColor": [23, 39, 77],
+                "favoredReligion": "Taoism",
+		"uniqueName": "Water Puppetry",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Food] from every [Lakes]","[+1 Faith] from every [Lakes]"],
+		"cities": ["Thang Long","Ho Chi Minh","Da Nang","Hue","Nha Trang","Ha Long","Can Tho","Da Lat","Hai Phong","Vinh"],
+	},
+{
+		"name": "Siam Kingdom",
+		"leaderName": "King Chulalongkorn",
+		"adjective": ["Siamese"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [181, 163, 171],
+		"innerColor": [84, 24, 51],
+                "favoredReligion": "Buddhism",
+		"uniqueName": "Father Governs Childreen",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+15] XP"],
+		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Ban Phai","Loci","Khon Kaen","Surin"],
+	},
+{
+		"name": "Dutch East India Company",
+		"leaderName": "Jan Pieterszoon Coen",
+		"adjective": ["Dutch"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Company i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [38, 38, 37],
+		"innerColor": [250, 250, 107],
+                "favoredReligion": "Catholic",
+		"uniqueName": "Slave Trade Monopoly",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Production] per every [4] [Gold]"],
+		"cities": ["Surat","Madras","Banten","West Java","Jayakarta","Jepara","Aceh","Pariaman","Jambi","Ambon","Banda Neira","Bengkulu","Cirebon","Makassar","Malacca","Patani","Ternate"]
+	},
+{
+		"name": "Philipines",
+		"leaderName": "Emilio Aguinaldo",
+		"adjective": ["Philipines"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Philipines i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [138, 255, 214],
+		"innerColor": [0, 60, 97],
+                "favoredReligion": "Catholic",
+		"uniqueName": "Pear of the Orient Seas",
+		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Coast]","[+2 Faith] [in all cities] <with [1] to [2] neighboring [Coast] tiles>","[+3 Faith] [in all cities] <with [3] to [4] neighboring [Coast] tiles>"],
+		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
+	},
+{
+		"name": "Bedouin Ottoman Domains",
+		"leaderName": "Sheikh Zayed bin Sultan Al Nahyan",
+		"adjective": ["Bedouin"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Sultanate i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [245,248,185],
+		"innerColor": [64, 62, 43],
+                "favoredReligion": "Islam",
+		"uniqueName": "Desert Nomads",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+10]% Strength <for [Camel] units>","[+25]% Strength <for [Heavy Cavalry] units>","Cannot build [Settler] units","May not annex cities"],
+		"cities": ["Al Ramlah","Ibexia","Badiyatun","Oasisend","Al Khaimah","Al Jamalah","Rihlatun","Al Ma anah", "Al Hurriyah"]
+	},
+{
+		"name": "Uzbekistan",
+		"leaderName": "Muhammad Rahim Khan II",
+		"adjective": ["Uzbek"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [62, 54, 69],
+		"innerColor": [118, 245, 164],
+                "favoredReligion": "Islam",
+		"uniqueName": "Emirate of Bukhara Silk Road Merchants",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Desert]","[+1 Gold] from every [House]","[+1 Faith] in cities on [Hill] tiles","[+50]% Happiness from luxury resources gifted by City-States"],
+		"cities": ["Tashkent","Samarkand","Bukhara","Nukus","Fergana","Qarshi","Kokand","Margilan","Termez","Jizzakh","Angren","Chirchiq","Navoiy","Urgench","Shahrisabz"]
+	},
+{
+		"name": "Poland",
+		"leaderName": "Count Andrzej Zamoyski",
+		"adjective": ["Polish"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [206, 57, 99],
+		"innerColor": [65, 29, 39],
+                "favoredReligion": "Orthodox",
+		"uniqueName": "Winged Hussars",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+20]% Production when constructing [Light Cavalry] units [in all cities]", "[+1 Faith] from every [Mill]","[+1 Gold] from every [House]"],
+		"cities": ["Warsaw","Cracovia","Breslavia","Poznan","Zakopane","Gdynia","Lodz","Szczecin","Torun","Lublin","Kolobrezeg","Sopot"]
+	},
+{
+		"name": "Greece",
+		"leaderName": "King Otto",
+		"adjective": ["Greek"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [45, 52, 117],
+		"innerColor": [197, 202, 252],
+                "favoredReligion": "Orthodox",
+		"uniqueName": "Greek Enlightenment",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Science] from every [Natural Wonder]","[+20]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
+			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
+			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
+			"Patras","Lamia","Nafplion","Apolyton"],
+	},
+{
+		"name": "Norway",
+		"leaderName": "King Oscar II",
+		"adjective": ["Nordish"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [39, 33, 48],
+		"innerColor": [161, 110, 250],
+                "favoredReligion": "Orthodox",
+		"uniqueName": "Nordic Resilence",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+10]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>","[+3]% Strength <when fighting in [Coast] tiles>"],
+		"cities": ["Nidaros","Avaldsnes","Bergen","Bjarkøy","Brattahlíð","Drammen","Frosta","Hamar","Hundorp","Karmøy","Kristiansand",
+			"Kristiansund","Kvitsøy","Moster","Namsos","Oslo","Reykjavik","Ringerike","Sandnæs","Sarpsborg","Skedsmo",
+			"Skien","Sogndal","Stange","Stavanger","Stiklestad","Tjøtta","Tromsø","Verdal","Vinland","Alesund"]
+	},
+{
+		"name": "Romania",
+		"leaderName": "King Carol",
+		"adjective": ["Romanian"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [29, 28, 54],
+		"innerColor": [252, 115, 3],
+                "favoredReligion": "Orthodox",
+		"uniqueName": "Cultural Renaissance",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Mine]","[+1 Faith] from every [Hill]","[-1 Food] from every [Mill]","[-1 Food] from every [House]"],
+		"cities": ["Bucharest", "Cluj-Napoca","Timișoara","Lași","Constanța","Craiova","Brașov","Galați","Ploiești","Oradea",
+                       "Brăila","Arad","Pitești","Sibiu","Băcau","Târgu Mureș","Baia Mare","Buzău","Botoșani","Satu Mare"]
+	},
+{
+		"name": "Persia",
+		"leaderName": "Nasir al-Din Shah Qajar",
+		"adjective": ["Persian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [250, 235, 167],
+		"innerColor": [82, 33, 47],
+		"uniqueName": "Qajar Dynasty Black Sea Slave Trade",
+                "favoredReligion": "Islam",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+4 Culture] from every [Holy site]","[+3 Production] from every [Holy site]","[+1 Food] from every [Holy site]"],
+		"cities": ["Teheran","Parsagadae","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
+			"Ghulaman","Zohak","Istakhr","Jinjan","Borazjan","Herat","Dakyanus","Bampur","Turengtepe","Rey","Shiraz",
+			"Thuspa","Hasanlu","Gabae","Merv","Behistun","Kandahar","Altintepe","Bunyan","Charsadda","Uratyube",
+			"Dura Europos","Aleppo","Qatna","Kabul","Capisa","Kyreskhata","Marakanda","Peshawar","Van","Pteira","Arshada",
+			"Artakaona","Aspabota","Autiyara","Bagastana","Baxtri","Darmasa","Daphnai","Drapsaka","Eion","Gandutava",
+			"Gaugamela","Harmozeia","Ekatompylos","Izata","Kampada","Kapisa","Karmana","Kounaxa","Kuganaka","Nautaka",
+			"Paishiyauvada","Patigrbana","Phrada"],
+	},
+{
+		"name": "Albania",
+		"leaderName": "Ismail Qemali",
+		"adjective": ["Albanian"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [177, 70, 79],
+		"innerColor": [24, 23, 23],
+                "favoredReligion": "Orthodox",
+		"uniqueName": "Land of the Eagles",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Production] from every [Mountain]","[+10]% Strength <when fighting in [Hill] tiles>"],
+		"cities": ["Tirana", "Durres","Vlore","Elbasan","Shkoder","Sarande","Berat","Fier","Korce","Pogradec","Kruje","Gijokaster","Kamez","Lushnje","Kavaje"]
+	},
+        {
+		"name": "Guled Dynasty",
+		"leaderName": "Sultan Deria Hassan",
+		"adjective": ["Somali"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [0, 86, 115],
+		"innerColor": [250, 250, 157],
+                "favoredReligion": "Islam",
+		"uniqueName": "Somali Incense and Aromatics",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+4 Production] [in all cities] <with [1] to [2] neighboring [{unimproved} {Desert}] tiles>","[+20]% Strength <when fighting in [Coast] tiles>"],
+		"cities": ["Mogadishu", "Hargeysa", "Berbera", "Kismayo", "Baidoa", "Bosaso", "Galkacyo", "Garowe", "Burco", "Jowhar"]
+	},
+{
+		"name": "Bulgarian Empire",
+		"leaderName": "Stefan Stambolov",
+		"adjective": ["Bulgarians"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Tsarate i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [60, 74, 15],
+		"innerColor": [210, 255, 61],
+		"uniqueName": "Lion’s Roar",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[-50]% maintenance on road & railroads","[Land] units gain the [Bulgarian Blood] promotion"],
+		"cities": ["Sofia", "Plovdiv" ,"Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Sliven", "Dobrich",
+			"Shumen",
+			"Pernik", "Haskovo"]
+	},
+{
+		"name": "Colonial Empire of Belgium",
+		"leaderName": "Leopold II",
+		"adjective": ["Belgium"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of the Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [67, 71, 84],
+		"innerColor": [237, 255, 133],
+		"uniqueName": "Belgium Congo",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"Free [Slave] appears <upon discovering [Mining] technology>","[+2 Gold] from each Trade Route","[+1 Gold] from every [Mine]"],
+		"cities": ["Brussels", "Ostend", "Brabante", "West Vlaanderen", "Henao", "Lieja", "Limburg", "Luxemburg",
+			"Namur", "Antwerpen", "Hainaut"],
+	},
+{
+		"name": "Switzerland",
+		"leaderName": "William Tell",
+		"adjective": ["Swiss"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Supremacy",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [66, 30, 44],
+		"innerColor": [252, 23, 107],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Armed Neutrality",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Switzerland Focus] [in capital] <starting from the [Second World War]>",
+		"[+20]% Strength <when fighting in [Friendly Land] tiles>", "[Gold] cost of purchasing items in cities [-75]%", "[-5]% Strength <when attacking>"],
+		"cities": ["Zürich","Geneva","Basel","Lausanne","Bern","Winterthur","Lucerne","St. Gallen","Lugano","Biel",
+			"Thun","Bellinzona","Köniz","Fribourgh","La Chaux-de-Fonds","Schaffhausen","Chur","Vernier","Uster","Sion"]
+	},
+{
+	    "name": "Sweden",
+		"leaderName": "Gustaf V",
+		"adjective": ["Swedish"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "The Hakkapeliittas will ride again and your men will fall just at the sight of my cavalry! God with us!",
+		"attacked": "Ha ha ha, captain Gars will be very glad to head out to war again.",
+		"defeated": "I am Sweden's king. You can take my lands, my people, my kingdom, but you will never reach the House of Vasa.",
+		"introduction": "Stranger, welcome to the Snow King's kingdom! I am Gustaf V, member of the esteemed House of Vasa",
+
+		"neutralHello": "Oh, welcome!",
+		"hateHello": "Oh, it is you.",
+		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
+        "outerColor": [17, 37, 120],
+		"innerColor": [255, 204, 94],
+		"favoredReligion": "Lutheran",
+		"uniqueName": "Nobel Prize",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
+		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
+            "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
+            "Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
+            "Södertälje","Mariestad","Östersund","Borås","Sundsvall","Vimmerby","Köping","Mora","Arboga","Växjö","Gränna",
+            "Kiruna","Borgholm","Strängnäs","Sveg"
+        ],
+        "spyNames": ["Leif", "Ingegard", "Sören", "Ragnhild", "Lars", "Lina", "Herr Grå", "Magnus", "Vilma", "Kusin"]
+    },
+{
+		"name": "The Netherlands",
+		"leaderName": "William III",
+		"adjective": ["Dutch"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "As much as I despise war, I consider it a, hahaha, contribution to the common cause to erase your existence.",
+		"attacked": "You call yourself an exalted ruler, but I see nothing more than a smartly dressed barbarian!",
+		"defeated": "My God, be merciful to my soul. My God, feel pity for this... my poor people!",
+		"introduction": "I am William III, stadtholder of The Netherlands. Did you need anything? I still have a lot to do.",
+		"neutralHello": "Once again, greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "I believe I have something that may be of some importance to you.",
+		"outerColor": [30, 30, 31],
+		"innerColor": [237, 13, 9],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Dutch East India Company",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Retain [100]% of the happiness from a luxury after the last copy has been traded away"],
+		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "Den Haag", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
+        "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
+    },
+{
+		"name": "Nejd Sultanate",
+		"leaderName": "Abdul Rahman bin Faisal",
+		"adjective": ["Arabian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "The world will be more beautiful without you. Prepare for war.",
+		"attacked": "Fool! You will soon regret dearly! I swear it!",
+		"defeated": "You have won, congratulations. My palace is now in your possession, and I beg that you care well for the peacock.",
+		"introduction": "Welcome foreigner, Come and tell me about your empire.",
+		"neutralHello": "Peace be upon you.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come forth, let's do business.",
+		"outerColor": [43, 88, 46],
+		"innerColor": [146, 221, 10],
+		"favoredReligion": "Islam",
+		"uniqueName": "The Renaissance of Najd",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+15]% Production towards any buildings that already exist in the Capital","[+1 Faith] from every [Luxury resource]", "Double quantity of [Oil] produced"],
+		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
+			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
+			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
+
+    },
+{
+		"name": "Egypt",
+		"leaderName": "Ali Pasha Mubarak",
+		"adjective": ["Egyptian"],
+		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
+		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
+		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
+		"introduction": "Greetings, I am Ali the Sultan. I am the living embodiment of muslim Egypt",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "Generous Egypt makes you this offer.",
+
+		"outerColor": [245,248,185],
+		"innerColor": [53, 35, 94],
+		"favoredReligion": "Islam",
+		"uniqueName": "Modernization Era",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"No Maintenance costs for improvements in [Desert] tiles","[+15]% Production when constructing [Settler] units [in all cities]"],
+		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
+			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
+			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
+			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
+			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"],
+        "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
+    },
+{
+		"name": "British Canada",
+		"leaderName": "John A. MacDonald",
+		"adjective": ["Canadian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Supremacy",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+                "favoredReligion": "Calvinism",
+		"uniqueName": "Ethnocide",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+30]% Strength <vs [Barbarian] units>","[+1 Science] from every [Lakes]"],
+		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton","Kitchener","Laval","London","Victoria","Halifax","Oshawa","Windsor","Saskatoon","St. Catharines","Regina","St. John's","Kelowna"]
+	},
+{
+		"name": "Colombia",
+		"leaderName": "Simon Bolivar",
+		"adjective": ["Colombian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Supremacy",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [245, 144, 66],
+		"innerColor": [15, 43, 107],
+                "favoredReligion": "Catholic",
+		"uniqueName": "Llanos",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Slave Labor Plantation]","[+50]% Yield from every [Plains]"],
+		"cities": ["Bogota","Cartagena","Medellin","Cali","Barranquilla","Bucaramanga","Cucuta","Buenaventura","Ibague","Santa Marta",
+				"Tunja","Valledupar","Villavicencio","Pereira","Barrancabermaja","Popayan","Pasto","Manizales","Armenia","Arauca",
+				"Florencia","Villa de Leyva","Guatavita","Neiva","Riohacha","Monteria","Yopal","Buga","Sogamoso","San Andres","Leticia"],
+	},
+{
+		"name": "Mexico",
+		"leaderName": "Benito Juarez",
+		"adjective": ["Mexican"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Supremacy",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [218, 247, 226],
+		"innerColor": [42, 156, 73],
+                "favoredReligion": "Catholic",
+		"uniqueName": "Dia de Muertos",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"Earn [50]% of killed [Military] unit's [Strength] as [Culture]","Earn [30]% of killed [Military] unit's [Strength] as [Faith]","Earn [20]% of killed [Military] unit's [Strength] as [Gold]"],
+		"cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
+                            "Merida","Cancun","Chihuahua","Durango","Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
+                            "Naucalpan","Aguascalientes","Hermosillo","Mexicali","Culiacan","Queretaro","Morelia","Reynosa","Guadalupe","San Luis Potosi"],
+	},
+{
+		"name": "Peru",
+		"leaderName": "Martin Vizcarra",
+		"adjective": ["Peruvian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Supremacy",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [71, 52, 36],
+		"innerColor": [245, 168, 61],
+                "favoredReligion": "Catholic",
+		"uniqueName": "El Condor Pasa",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Faith] from every [Hill]","[+1 Gold] from every [Hill]"],
+		"cities": ["Lima","Cusco","Arequipa","Trujillo","Iquitos","Chiclayo","Puno","Tacna","Huancayo","Chimbote", "Juliaca","Ayacucho","Ica","Pucallpa","Huaraz","Cajamarca","Tarapoto","Piura","Sullana","Callao", "Maldonado Port","Chincha Alta","Tumbes","Abancay","Talara","Pasco Hill","Jaen","Moyobamba","Catacaos","Moquegua"],
+	},
+{
+		"name": "Bolivia",
+		"leaderName": "Manuel Isidoro Belzu",
+		"adjective": ["Bolivian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Supremacy",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [138, 34, 12],
+		"innerColor": [252, 215, 194],
+                "favoredReligion": "Catholic",
+		"uniqueName": "Nevando Esta",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"Land units may cross [Mountain] tiles after the first [Great General] is earned","[+2 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Hill}] tiles>"],
+		"cities": ["Sucre","La Paz","El Alto","Cochabamba","Santa Cruz de la Sierra","Tarija","Potosi","Oruro","Cobija","Riberalta","Yacuiba","Sacaba","Viacha","Tiquipaya","Quillacollo","Robore","Guayaramerin","Tupiza","Villa Montes","Villazon","Camiri","Warnes","Trinidad","Bermejo","Montero","Colcapirhua","Villa Yapacani"],
+	},
+{
+		"name": "Haiti",
+		"leaderName": "Faustin I",
+		"adjective": ["Haitian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [108, 110, 117],
+		"innerColor": [11, 18, 46],
+                "favoredReligion": "Voodoo",
+		"uniqueName": "Dictatorship",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+5]% Production towards any buildings that already exist in the Capital","[+2 Faith] from every [Fort]","[+1] Movement <for [Water] units>","[Great General] is earned [20]% faster"],
+		"cities": ["Port'Au Prince","Gonaïves","Cape Haiti","Jacmel","Port-de-Paix","Fort-Liberté","Jérémie","Chambellan","The Caobas","La Victoire"],
+	},
+{
+		"name": "Zulu",
+		"leaderName": "Shaka",
+		"adjective": ["Zulu"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [214, 141, 69],
+		"innerColor": [59, 21, 5],
+                "favoredReligion": "Shamanism",
+		"uniqueName": "Impi Iyehlisa",
+		"uniques": ["Gain a free [Zulu Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Food] from every [Plains]","[+1 Food] from every [Hunter Lodge]"],
+		"cities": ["Ulundi", "KwaDukuza" ,"Bulawayo", "Isandlwana", "Rorke´s Drift", "Eshowe", "Ondini", "Gingindlovu"]
+	},
+{
+		"name": "Ukraine",
+		"leaderName": "Mykhailo Hrushevsky",
+		"adjective": ["Ukranian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [50, 78, 168],
+		"innerColor": [250, 247, 82],
+                "favoredReligion": "Orthodox",
+		"uniqueName": "Breadbasket of Europe",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Food] from every [Hill]", "[+5 Gold] from every [Wheat]"],
+		"cities": ["Kyiv", "Kharkiv" ,"Odesa", "Dnipro", "Donetsk", "Lviv", "Zaporizhizhia", "Kryvyi Rih", "Mykolaiv", "Sevastopol", "Mariupol", "Luhansk", "Vinnytsia", "Makiivka"],
+	},
+{
+		"name": "Afghanistan",
+		"leaderName": "Emir Abdur Rahman Khan",
+		"adjective": ["Afghanistan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Political",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello, you.",
+		"hateHello": "What YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [46, 46, 46],
+		"innerColor": [255, 255, 255],
+                "favoredReligion": "Islam",
+		"uniqueName": "Graveyard of Empires",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+25]% Strength <for [Camel] units>", "[+1 Culture] from every [Hill]","[+1 Faith] from every [Mountain]"],
+		"cities": ["Kabul","Kandahar","Herat","Mazar I Shariff", "Jalalabad", "Kunduz", "Ghazni", "Balkh", "Baghlan", "Gardez", "Khost", "Maymana", "Khanabad", "Taloqan", "Pul e Khumri", "Sari Pul", "Paghman"],
+	},
+{
+		"name": "Portugal",
+		"leaderName": "António de Oliveira Salazar",
+		"adjective": ["Portuguese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		"tradeRequest": "How would you like it if I propose this kind of exchange?",
+		"outerColor": [207, 209, 232],
+		"innerColor": [80, 61, 110],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Mare Clausum",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Gold] from every [Strategic resource]", "[+2 Gold] from every specialist [in all cities]", "[+1 Gold] from every [Great Improvement]"],
+		"cities": ["Lisboa","Oporto","Viseu"
+			"Braga","Coimbra","Funchal","Amadora","Guarda","Suzdal","Silves"],
+        "spyNames": ["Marco"]
+    },
+{
+		"name": "Denmark",
+		"leaderName": "King Christian X",
+		"adjective": ["Danish"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"outerColor": [87, 18, 39],
+		"innerColor": [255, 252, 253],
+	        "favoredReligion": "Baptist",
+		"uniqueName": "God's help, the love of the people, Denmark's strength",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Gain a free [Havn] [in all coastal cities]","[+10]% Strength <when fighting in [Coast] tiles>"],
+		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsberg","Roskilde","Hedeby","Oslo","Jelling","Truso",
+			"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
+			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
+			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
+			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"],
+	},
+{
+		"name": "Uruguay",
+		"leaderName": "Venacio Flores",
+		"adjective": ["Uruguayan"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"outerColor": [111, 247, 148],
+		"innerColor": [8, 8, 82],
+	        "favoredReligion": "Candomble",
+		"uniqueName": "Apostadero",
+		"uniques": ["Gain a free [War of the Triple Alliance] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Gold] from every [Coast]","[+1 Gold] from every [Luxury resource]","[+1 Faith] from every [Lakes]"],
+		"cities": ["Montevideo","Salto","Ciudad de la Costa","Paysandú",
+			"Maldonado","Rivera","Las Piedras","Tacuarembó",
+			"Melo","Artigas","Mercedes","Minas","San Jose de Mayo","Barros Blancos",
+			"Ciudad del Plata","San Carlos",]
+	},
+{
+		"name": "Serbian Empire",
+		"leaderName": "Nikola Pašić",
+		"adjective": ["Serbian"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"outerColor": [252, 220, 146],
+		"innerColor": [130, 95, 5],
+	        "favoredReligion": "Catholic",
+		"uniqueName": "Assassination of Archduke Franz Ferdinand",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Gold] from every [Hill]","[+1 Faith] from every [Mountain]","[+1 Food] from every [Forest]"],
+		"cities": ["Stari Ras","Bor","Negotin","Pozarevac","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",
+			"Pec","Prizren","Mitrovica","Morava","Sabac","Cacak","Nis","Pirot","Smederevo","Jagodna",
+			"Vranje","Krusevac","Beograd","Rudo Polje","Dmitrovica","Prokuplje","Vucitrn","Debrc","Skopje",
+			"Prilep","Kumanovo","Presevo","Ostrovica","Prijepolje","Brodarevo","Priboj","Kratovo","Hvosno",]
+	},
+{
+		"name": "Montenegro",
+		"leaderName": "Nicholas I",
+		"adjective": ["Montenegrin"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"outerColor": [66, 135, 245],
+		"innerColor": [28, 32, 38],
+	        "favoredReligion": "Catholic",
+		"uniqueName": "Vladika",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Mountain]","[+1 Culture] from every [Hill]","[+1 Faith] from every [Mountain]"],
+		"cities": ["Cetinje","Pljevlja","Pluzhine","Zhabljak","Mojkovac","Bijelo Polje","Berane","Petnjica","Rozhaje","Shavnik",
+			"Nikshitch","Kolashin","Andrijevica","Plav","Gusinje","Kotor","Gradina","Podgorica","Tuzi","Herceg Novi",
+			"Tivat","Budva","Bar","Ulcinj","Vranjina",]
+	},
+{
+		"name": "Brasilian Empire",
+		"leaderName": "Dom Pedro II",
+		"adjective": ["Brasilian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [31, 107, 51],
+		"innerColor": [255, 254, 181],
+		"uniqueName": "Imperio da Grandeza",
+		"uniques": ["Gain a free [War of the Triple Alliance] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Culture] from every [Lakes]", "[+2 Food] from every [Lakes]", "[+2 Gold] from every [Slave Labor Plantation]"],
+		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+                            "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"],
+	},
+{
+		"name": "Austria Hungary",
+		"leaderName": "Archduke Franz Ferdinand",
+		"adjective": ["Austrian Hungarian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "What a fool ye are! Ye will end swiftly and miserably.",
+		"defeated": "The world is pitiful! There's no beauty in it, no wisdom. I am almost glad to go.",
+		"introduction": "The archduchess of Austria welcomes your Eminence to... Oh let's get this over with! I have a luncheon at four o'clock.",
+
+		"neutralHello": "Hello!",
+		"hateHello": "Oh, it's ye!",
+		"tradeRequest": "I see you admire my new damask. Nobody should say that I am an unjust woman. Let's reach an agreement!",
+
+        "outerColor": [234,0,0],
+        "innerColor": [255,255,255],
+
+		"favoredReligion": "Catholic",
+		"uniqueName": "Double Monarchy",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
+		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
+			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
+			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
+			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"
+		],
+        "spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
+    },
+{
+		"name": "Imperial China",
+		"leaderName": "Empress Dowager Cixi",
+		"adjective": ["Chinese"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You won't ever be able to bother me again.",
+		"attacked": "Fool! I will disembowel you all!",
+		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
+		"introduction": "Greetings. China desires peace and development. You leave us alone, we'll leave you alone.",
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+        "outerColor": [245, 213, 124],
+        "innerColor": [44, 121, 203],
+
+		"favoredReligion": "Taoism",
+		"uniqueName": "Sky Mandate",
+		"uniques": ["Gain a free [First Chinese Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Second Chinese Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Mountain]","[+2 Faith] from every [Jungle]"],
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
+
+    },
+    {
+		"name": "British Raj",
+		"leaderName": "Louis Mountbatten",
+		"adjective": ["British Raj"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "No, this cannot be possible!.",
+		"introduction": "Hello, the Raj recieves you with pleasure.",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+
+        "outerColor": [10, 18, 79],
+        "innerColor": [255, 163, 71],
+
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Oppression",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Raj Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] in cities on [River] tiles","[+2 Gold] in cities on [Hill] tiles","[+2 Gold] in cities on [Jungle] tiles","[+35]% [Gold] [in all cities]","[-10]% [Happiness] [in all cities]"],
+		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
+			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
+			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
+        "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
+    },
+	{
+		"name": "Colony of Malaysia",
+		"leaderName": "Sir Henry Gurney",
+		"adjective": ["Colony of Malaysia"],
+		"startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "No, this cannot be possible!.",
+		"introduction": "Hello, the Raj recieves you with pleasure.",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+
+        "outerColor": [10, 18, 79],
+        "innerColor": [179, 102, 255],
+
+		"favoredReligion": "Islam",
+		"uniqueName": "The Crown's Jewel",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+4 Gold] from every [Luxury resource]","[+1 Gold] from every [Coast]"],
+		"cities": ["Kuala Lumpur",
+"Penang",
+"Malacca",
+"Ipoh",
+"Johor Bahru",
+"Kota Kinabalu",
+"Kuching",
+"George Town",
+"Alor Setar",
+"Seremban"],
+        "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
+    },
+	{
+		"name": "British Trucial States",
+		"leaderName": "Sheikh Zayed bin Khalifa Al Nahyan",
+		"adjective": ["British Trucial States"],
+		"startBias": ["Coast","Desert"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "No, this cannot be possible!.",
+		"introduction": "Hello, the Raj recieves you with pleasure.",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+
+        "outerColor": [10, 18, 79],
+        "innerColor": [255, 171, 227],
+
+		"favoredReligion": "Islam",
+		"uniqueName": "Pearl of the Gulf",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Coast]","[+1 Science] from every [Strategic resource]","[+1 Gold] from every [Camel]"],
+		"cities": ["Abu Dhabi",
+"Dubai",
+"Sharjah",
+"Ajman",
+"Umm Al Quwain",
+"Fujairah",
+"Ras Al Khaimah",
+"Kalba",
+"Al Hamriyah",
+"Al Heera"],
+        "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
+    },
+	{
+		"name": "British Hong Kong",
+		"leaderName": "Pearl of the Orient",
+		"adjective": ["British Hong Kong"],
+		"startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "No, this cannot be possible!.",
+		"introduction": "Hello, the Raj recieves you with pleasure.",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+
+        "outerColor": [10, 18, 79],
+        "innerColor": [212, 196, 255],
+
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Pearl of the Orient",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Free [Great Merchant] appears <upon entering a Golden Age>","Free [Great Merchant] appears <upon adopting [Imperialism]>","[+1 Food] from all [Gold] buildings"],
+		"cities": ["Victoria City",
+"Kowloon",
+"Aberdeen",
+"Tsuen Wan",
+"Sha Tin",
+"Yuen Long",
+"Tuen Mun",
+"Tai Po",
+"Fanling",
+"Sheung Shui"],
+        "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
+    },
+{
+		"name": "Ottoman Empire",
+		"leaderName": "Abdulhamid II",
+		"adjective": ["Ottoman"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
+		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
+		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		"introduction": "From the magnificence of Topkapi, the Ottoman nation greets you, stranger! I bestow upon you my welcome!",
+		"neutralHello": "Greetings!",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Let us do business! Would you be interested?",
+
+        "outerColor": [245,248,185],
+        "innerColor": [18,84,30],
+
+		"favoredReligion": "Islam",
+		"uniqueName": "Barbary Corsairs",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Faith] [in all cities] <before discovering [Steam Power]>",
+			"When defeating a [{Barbarian} {Land}] unit, earn [25] Gold and recruit it <with [50]% chance>", "[+50]% Yield from every [Desert]"],
+		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
+			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
+			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
+			"Bitlis","Yalova"],
+        "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
+    },
+{
+		"name": "United States of America",
+		"leaderName": "Abraham Lincoln",
+		"adjective": ["United States of America"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "The people of the United States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+
+        "outerColor": [28,51,119],
+        "innerColor": [164, 252, 191],
+
+        "favoredReligion": "Baptist",
+		"uniqueName": "Emancipation Proclamation",
+		"uniqueText": "Gain a free [First Generic Focus] [in capital] starting from the [Industrial Era] Gain a free [Second Generic Focus] [in capital] starting from the [First World War] Gain a free [America Focus] [in capital] starting from the [Second World War]
+		[+30]% [Production] from every [House], [+20]% [Production] from every [Mill], [-3]% [Happiness] from every [Slave Labor Plantation], [Gold] cost of purchasing [Slave] units [+200]%
+
+Nixon Bureaucratic Reforms
+[+20]% [Science] [in all cities] starting from the [Cold War], [+20]% [Gold] [in all cities] starting from the [Cold War]",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [America Focus] [in capital] <starting from the [Second World War]>",
+		"[+30]% [Production] from every [House]","[+20]% [Production] from every [Mill]","[-3]% [Happiness] from every [Slave Labor Plantation]", "[Gold] cost of purchasing [Slave] units [+200]%",
+	"[+20]% [Science] [in all cities] <starting from the [Cold War]>","[+20]% [Gold] [in all cities] <starting from the [Cold War]>"], 
+		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
+			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
+			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
+			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
+			"Spokane","Jacksonville","Svannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
+			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+        {
+		"name": "Confederate States of America",
+		"leaderName": "Jefferson Davis",
+		"adjective": ["Confederate"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "The people of the Confederate States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+
+        "outerColor": [0, 49, 130],
+        "innerColor": [246, 68, 65],
+
+        "favoredReligion": "Baptist",
+		"uniqueName": "Deo Vindice",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"Free [Texas Ranger] appears <upon discovering [Railway] technology>","Free [Texas Ranger] appears <upon discovering [Rifling] technology>","[+1 Faith] from every [Slave Labor Plantation]"], 
+		"cities": ["Montgomery","Richmond","Danville","New Orleans","Charleston","Atlanta"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+        {
+		"name": "Republic of Texas",
+		"leaderName": "Sam Houston",
+		"adjective": ["Texan"],
+                "startBias": ["Plains"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "Hello my friend, im Sam Houston, i welcome you to Texas.",
+		"neutralHello": "Hey.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+
+        "outerColor": [235, 64, 52],
+        "innerColor": [9, 15, 79],
+
+        "favoredReligion": "Baptist",
+		"uniqueName": "Lone Star State",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Food] from every [Cattle]","[+1 Production] from every [Plains]"], 
+		"cities": ["Austin","Houston","San Antonio","Dallas","Galveston","Corpus Christi","Fort Worth","El Paso","Amarillo","Lubbock"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+
+	
+{
+		"name": "Japanese Empire",
+		"leaderName": "Emperor Meiji",
+		"adjective": ["Japanese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I hereby inform you of our intention to wipe out your civilization from this world.",
+		"attacked": "Pitiful fool! Now we shall destroy you!",
+		"defeated": "You were much wiser than I thought.",
+		"introduction": "We hope for a fair and just relationship with you, who are renowned for military bravery.",
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you...",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"outerColor": [235, 227, 197],
+		"innerColor": [166, 20, 15],
+		"favoredReligion": "Shinto",
+		"uniqueName": "Meiji Restauration",
+		"uniques": ["Gain a free [Meiji Restauration Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"No damage penalty for wounded units <for [non-air] units>"],
+		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
+			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
+			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
+			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"],
+        "spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
+    },
+{
+		"name": "British Empire",
+		"leaderName": "Victoria",
+		"adjective": ["British"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "By the grace of God, your days are numbered.",
+		"attacked": "We shall never surrender.",
+		"defeated": "You have triumphed over us. The day is yours.",
+		"introduction": "We are pleased to meet you.",
+		"neutralHello": "Hello, again.",
+		"hateHello": "Oh, it's you!",
+		"tradeRequest": "Would you be interested in a trade agreement with England?",
+		"outerColor": [10, 18, 79],
+		"innerColor": [250, 88, 70],
+		"favoredReligion": "Calvinism",
+		"uniqueName": "Rule Brittania",
+		"uniques": ["Gain a free [First British Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second British Focus] [in capital] <starting from the [First World War]>","Gain a free [Third British Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Production] from every [Mine]","[+25]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+        "spyNames": ["James", "Scarlett", "Scott", "Anne"]
+    },
+{
+		"name": "Cape Colony",
+		"leaderName": "Sir Walter Francis Hely Hutchinson",
+		"adjective": ["Cape Colony"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of white people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [10, 18, 79],
+		"innerColor": [206, 255, 122],
+		"uniqueName": "Cape Richness",
+                "favoredReligion": "Calvinism",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [South African Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Coast]", "[+20]% Production when constructing [Production] buildings [in all cities]"],
+		"cities": ["Cape Town","Clanwilliam","Stellenbosch","Zwellendam","Tullbagh","Beufort","George","Uitenhangue"]
+	},
+{
+		"name": "Transvaal",
+		"leaderName": "Sir Walter Francis Hely Hutchinson",
+		"adjective": ["Transvaal"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of white people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [38, 38, 37],
+		"innerColor": [250, 98, 10],
+		"uniqueName": "Treaty of Vereeniging",
+                "favoredReligion": "Calvinism",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [South African Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Mine]", "[+1 Gold] from every [Grassland]","[+25]% Strength <vs [Barbarian] units>"],
+		"cities": ["Pretoria","Johannesburg","Vereeniging","Heidelberg","Messina","Nelspruit","Witwatersrand","Vaal Triangle","Zoutpansberg"]
+	},
+        {
+		"name": "German Empire",
+		"leaderName": "Otto von Bismarck",
+		"adjective": ["German"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [250, 250, 250],
+		"innerColor": [33, 33, 33],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Krupp Factories",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Germany Focus] [in capital] <starting from the [Second World War]>",
+		"[-50]% Gold cost of acquiring tiles [in all cities]", "Free [Krupp Steel Cannon] appears <upon discovering [Mining] technology>","[-50]% maintenance costs <for [Land] units>"],
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
+        {
+		"name": "Spanish Empire",
+		"leaderName": "Isabel II",
+		"adjective": ["Spanish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
+		"attacked": "Repugnant spawn of the devil! You will pay!",
+		"defeated": "If my defeat is, without any doubt, the will of God, then I will accept it.",
+		"introduction": "God blesses those who deserve it. I am Isabel of Spain.",
+		"neutralHello": "Greetings.",
+		"hateHello": "Well?",
+		"tradeRequest": "I hope this deal will receive your blessing.",
+		"outerColor": [168, 17, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Seven Cities of Gold",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+100]% Yield from every [Luxury resource]", "[+100]% Yield from every [Natural Wonder]"],
+		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
+			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
+			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
+			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"],
+        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
+    },
+    {
+		"name": "French Empire",
+		"leaderName": "Napoleon III",
+		"adjective": ["French"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "You've fallen into my trap. I'll bury you.",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "Welcome. I'm Napoleon, of France; the smartest military man in world history.",
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "France offers you this exceptional proposition.",
+
+        "outerColor": [38, 98, 255],
+        "innerColor": [239,236,148],
+
+		"favoredReligion": "Judaism",
+		"uniqueName": "Ancien Régime",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
+		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
+			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
+        "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
+    },
+	{
+		"name": "Russian Empire",
+		"leaderName": "Zar Nicholas II",
+		"adjective": ["Russian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "I greet you, stranger! If you are as intelligent and tactful as you are attractive, we'll get along just fine.",
+		"neutralHello": "Hello!",
+		"hateHello": "What do you need?!",
+		"tradeRequest": "How would you like it if I propose this kind of exchange?",
+		"outerColor": [207, 209, 232],
+		"innerColor": [32, 57, 87],
+		"favoredReligion": "Orthodox",
+		"uniqueName": "Siberian Riches",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Russia Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Production] from every [Strategic resource]","[+50]% Yield from every [Tundra]"],
+		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+    },
+	{
+		"name": "Italian Empire",
+		"leaderName": "Victor Emmanuel II",
+		"adjective": ["Italian"],
+		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
+		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
+		"defeated": "The gods have deprived Italy of their favour. We have been defeated.",
+		"introduction": "I greet you. I am Victor, Imperator and Maximus of Italy. If you are a friend of Rome, you are welcome.",
+		"neutralHello": "Hail.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "I offer this, for your consideration.",
+		"outerColor": [65, 41, 82],
+		"innerColor": [240, 171, 10],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Mediterranean Glory",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Italy Focus] [in capital] <starting from the [Second World War]>",
+		"Free [Legione Agricola] appears <upon discovering [Novel] technology>","[+30]% Production towards any buildings that already exist in the Capital", "[+1 Food] from every [Coast]"],
+		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
+			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
+			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
+			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
+        "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
+    },
+    {
+		"name": "Finland",
+		"leaderName": "Carl Gustaf Emil Mannerheim",
+		"adjective": ["Finnish"],
+		"startBias":["Avoid [Plains]","Snow","Avoid [Desert]","Avoid [Grassland]"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "The winter war has taught us the value of unity",
+		"attacked": "The winter war has hardened us, but it has not broken us",
+		"defeated": "Our resistance may have been overcome, but the spirit of Finland will never be defeated. We will learn from this defeat and come back stronger",
+		"introduction": "Welcome to the land of a thousand lakes",
+		"neutralHello": "Hello.",
+		"hateHello": "Our nation values ​​peace, but we do not fear war",
+		"tradeRequest": "Peace with Finland is as warm as our saunas",
+		"outerColor": [250, 250, 250],
+		"innerColor": [21, 68, 237],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Winter Defense",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Finland Focus] [in capital] <starting from the [Second World War]>",
+		"[+20]% [Happiness] [in all cities] <when at war>", "[+2 Food] from every [Log Cabin]"],
+		"cities": ["Helsinki", "Espoo","Tampere","Vantaa","Oulu","Turku","Jyvaskyla","Lahti","Kuopio","Pori","Joensuu","Lappeenranta","Hameenlinna","Vaasa"],
+        "spyNames": ["Saki"]
+    },
+
+    {
+		"name": "Ethiopia",
+		"leaderName": "Haile Selassie",
+		"adjective": ["ethiopian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I have tried all other avenues, but yet you persist in this madness. I hope, for your sake, your end is swift.",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
+		"defeated": "God and history will remember your actions this day. I hope you are ready for your impending judgment.",
+		"introduction": "A thousand welcomes to our fair nation. I am Selassie, the Ras Tafari Makonnen and Emperor of Ethiopia, your humble servant.",
+		"tradeRequest": "I request that you consider this offer between our two peoples. I believe it will do us both good.",
+
+		"neutralHello": "Welcome.",
+
+		"hateHello": "What do you want?",
+
+        "outerColor": [252, 186, 3],
+        "innerColor": [19, 46, 30],
+
+		"favoredReligion": "Orthodox",
+		"uniqueName": "Spirit of Adwa",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
+			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
+			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
+			"Shire","Ambo","Negele Arsi","Gambela","Ziway","Weldiya"],
+        "spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Demeke", "Mulu Alem", "Abebech", "Zema", "Mihret", "Kebedech", "Alemnesh"]
+    },
+    {
+		"name": "Korea",
+		"leaderName": "Empress Myeongseong",
+		"adjective": ["Korean"],
+		"startBias":["Fresh water"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of south Korea",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [252, 217, 146],
+		"innerColor": [237, 46, 39],
+		"favoredReligion": "Taoism",
+		"uniqueName": "Miracle of the Han River",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Food] from every [River]","[+1 Gold] from every [River]"],
+		"cities": ["Seoul", "Busan","Incheon","Daegu","Daejeon","Gwangju","Ulsan","Suwon","Changwon","Goyang","Seongnam","Yongin"],
+        "spyNames": ["Saki"]
+    },
+    {
+		"name": "Paraguay",
+		"leaderName": "Francisco Solano López",
+		"adjective": ["Paraguayan"],
+		"startBias":["Jungle"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of Paraguay",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [123, 186, 140],
+		"innerColor": [28, 32, 38],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Alma Guaraní",
+		"uniques": ["Gain a free [War of the Triple Alliance] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+15]% [Production] [in capital] <when at war>","[+1 Food] from every [Jungle]"],
+		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",],
+        "spyNames": ["Saki"]
+    },
+    {
+		"name": "Argentina",
+		"leaderName": "Justo José de Urquiza",
+		"adjective": ["Argentinian"],
+		"startBias":["Plains"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of Argentina",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [0, 187, 250],
+		"innerColor": [64, 11, 11],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Mueran los Enemigos de la Organizacion Nacional",
+		"uniques": ["Gain a free [War of the Triple Alliance] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Culture] from every [Mill]", "[+50]% Strength <vs [Barbarian] units>"],
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
+                            "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"],
+        "spyNames": ["Saki"]
+    },
+    {
+		"name": "Argentinian Confederation",
+		"leaderName": "Juan Manuel de Rosas",
+		"adjective": ["Argentinian"],
+		"startBias":["Plains"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of Argentina",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [255, 3, 3],
+		"innerColor": [29, 36, 48],
+		"favoredReligion": "Catholic",
+		"uniqueName": "Mueran los Salvajes Unitarios",
+		"uniques": ["Gain a free [War of the Triple Alliance] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Production] from every [Mill]", "[+1 Production] from every [Stable]", "[+2 Food] from every [Slave Labor Plantation]"],
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
+                            "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"],
+        "spyNames": ["Saki"]
+    },
+
+    {
+		"name": "Chile",
+		"leaderName": "Diego Portales",
+		"adjective": ["Chilean"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Supremacy",
+
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+                "declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to the land of Chile",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [86, 94, 107],
+		"innerColor": [207, 223, 250],
+		"favoredReligion": "Animism",
+		"uniqueName": "Frontier Cavalry",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+20]% Production when constructing [Heavy Cavalry] units [in all cities]","[+50]% Yield from every [Hill]","[+1 Faith] from every [Mill]"],
+		"cities": ["Santiago","Valparaiso","Copiapo","Antofagasta","Iquique","Valdivia","Rancagua","Concepcion","La Serena","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Puerto Aysen","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
+        "spyNames": ["Saki"]
+    },
+    {
+		"name": "Central Americans",
+		"leaderName": "Francisco Morazán",
+		"adjective": ["Central Americans"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [199, 248, 255],
+		"innerColor": [3, 135, 89],
+		"uniqueName": "War Against American Insurrection",
+		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Food] from every [Bananas]","[+1 Gold] from every [Bananas]","[+1 Gold] from every [Slave Labor Plantation]","[+1 Food] from every [Jungle]","[+1 Food] from every [Atoll]", "[+1 Science] per [3] social policies adopted"],
+		"cities": ["San Miguel", "Conchagua" ,"Tegucigalpa", "Leon", "Granada", "San Salvador", "Managua", "San Jose", "Belmopán"]
+	},
+        {
+		"name": "Merina Kingdom",
+		"leaderName": "Queen Ranavalona I",
+		"adjective": ["Merina"],
+		"startBias": ["Baobab"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [16, 36, 18],
+		"innerColor": [240, 93, 77],
+		"uniqueName": "Christian Killer",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Faith] from every [House]","[+1 Faith] from every [Forest]","[+1 Production] from every [Hunter Lodge]"],
+		"cities": ["Antananarivo Renivohitra", "Toamasina" ,"Fianarantsoa", "Mahajanga", "Toliara", "Antsirabe", "Antsiranana", "Ambovombe", "Ambositra","Ambanja","Ambatolampy","Ambatondrazaka","Ambilobe"]
+	},
+        {
+		"name": "Benin Kingdom",
+		"leaderName": "Oba Ovonramwen",
+		"adjective": ["Benin"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [197, 226, 237],
+		"innerColor": [16, 71, 92],
+		"uniqueName": "The Rising Sun which spreads over all",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Production] from every [Oil]","[+1 Production] from every [Ocean]","[+1 Production] from every [Jungle]"],
+		"cities": ["Benin City", "Udo" ,"Ekpoma", "Auchi", "Akure", "Warri", "Ondo", "Ife","Ijebu Ode","Abeokuta"]
+	},
+        {
+		"name": "Kongo Kingdom",
+		"leaderName": "Henrique III",
+		"adjective": ["Kongo"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [204, 198, 200],
+		"innerColor": [94, 1, 27],
+		"uniqueName": "Kivuzu Faction Fracturation",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Slave Labor Plantation]","[+2 Production] from every [Slave Labor Plantation]"],
+		"cities": ["Mbanza Kongo", "Soyo" ,"Boma", "Matadi", "Bandundu", "Kinshasa", "Kisantu", "Kikwit","Kananga","Lubumbashi","Likasi"]
+	},
+        {
+		"name": "Dahomey Kingdom",
+		"leaderName": "King Béhanzin",
+		"adjective": ["Dahomey"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [245, 215, 118],
+		"innerColor": [70, 115, 104],
+		"uniqueName": "King Wives",
+		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+		"[+10]% [Production] [in capital] <when at war>","[+50]% [Gold] [in capital] <when at war>","[+50]% [Happiness] [in capital] <when at war>"],
+		"cities": ["Abomey", "Allada" ,"Porto-Novo", "Cotonou", "Ouidah", "Parakou", "Djougou", "Bohicon","Kandi","Lokossa"]
+	},
+        {
+		"name": "Selk Nam",
+		"leaderName": "Xalpen",
+		"adjective": ["Selk Nam"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [198, 209, 187],
+		"innerColor": [29, 120, 133],
+		"uniqueName": "Nomadic Survivalists",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+15]% [Faith] [in all cities] <when at war>","[+2 Culture] from every [Log Cabin]","[+2 Faith] from every [Log Cabin]"],
+		"cities": ["Tierra del Fuego","Parik","Hersk","Cerro Benitez","Cerro Toro","Strait of Magellan"]
+	},
+        {
+		"name": "Lakota People",
+		"leaderName": "Sitting Bull",
+		"adjective": ["Lakota"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [59, 50, 46],
+		"innerColor": [230, 133, 90],
+		"uniqueName": "Great Plains Tipis",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Food] from every [House]","[+1 Faith] from every [Bison]","[+1 Gold] from every [Bison]","[+1 Culture] from every [Forest]"],
+		"cities": ["Little Big Horn","Ochethi Ota","Lakhota Makoce", "Rapid City", "Wood Mountain", "Sichangu", "Oglála", "Hunkpapha", "Mnikhowozu", "Sihasapa", "Oohenunpa"]
+	},
+        {
+		"name": "Kazakhs",
+		"leaderName": "Kenesary Khan",
+		"adjective": ["Kazakhs"],
+		"startBias": ["Mountain Land"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [1, 40, 66],
+		"innerColor": [179, 245, 229],
+		"uniqueName": "Steppe Sense",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+1 Culture] from every [Ranch]","[+2 Faith] from every [Stable]","[+1] Sight"],
+		"cities": ["Astana","Almaty","Shymkent","Karaganda","Aktobe","Taraz","Pavlodar","Oskemen","Semey","Atyrau","Kostanay","Kyzylorda","Uralsk","Petropavl","Aktau"]
+	},
+        {
+		"name": "Soviet Union",
+		"leaderName": "Joseph Stalin",
+		"adjective": ["Soviet"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [212, 8, 28],
+		"innerColor": [250, 192, 85],
+		"uniqueName": "Warsaw Pact",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+5]% Strength <when fighting in [Friendly Land] tiles>","Earn [10]% of the damage done to [City] units as [Culture]","Upon capturing a city, receive [2] times its [Gold] production as [Culture] immediately"],
+		"cities": ["Moscow", "Leningrad", "Kiev", "Minsk", "Kharkov", "Stalingrad", "Sverdlovsk", "Gorky", "Krasnodar", "Vladivostok", "Novosibirsk", "Krasnoyarsk", "Kuybyshev", "Baku", "Tbilisi", "Alma Ata", "Tashkent", "Omsk", "Ufa", "Chelyabinsk", "Sevastopol", "Molotov", "Kaliningrad", "Riga", "Tallinn", "Kazan", "Odessa", "Kirov", "Ulyanovsk"]
+	},
+        {
+		"name": "Sultanate of Muscat and Oman",
+		"leaderName": "Sultan Said bin Sultan Al-Busaidi",
+		"adjective": ["MuscatOmani"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Supremacy",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [220, 232, 207],
+		"innerColor": [79, 8, 4],
+		"uniqueName": "Gateway to the East",
+		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Gold] from every [Fishing Boats]","[+1 Gold] from every [Desert]","[+1 Gold] from every [Oil]"],
+		"cities": ["Astana","Almaty","Shymkent","Karaganda","Aktobe","Taraz","Pavlodar","Oskemen","Semey","Atyrau","Kostanay","Kyzylorda","Uralsk","Petropavl","Aktau"]
+	},
+
+        {
+		"name": "Iroquois",
+		"leaderName": "John Norton",
+		"adjective": ["Iroquoise"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Supremacy",
+
+       "startIntroPart1": "",
+
+        "declaringWar": "You are a plague upon Mother Earth! Prepare for battle!",
+		"attacked": "You evil creature! My braves will slaughter you!",
+		"defeated": "You have defeated us... but our spirits will never be vanquished! We shall return!",
+		"introduction": "Greetings, stranger. I am John Norton, speaker for the Iroquois. We seek peace with all, but we do not shrink from war.",
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Does this trade work for you, my friend?",
+
+        "outerColor": [54,72,72],
+        "innerColor": [246,205,137],
+
+        "favoredReligion": "Shamanism",
+		"uniqueName": "The Great Warpath",
+		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+		"[+2 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>","[+2 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>"],
+		"cities": ["Onondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
+			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
+			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
+			"Schoharie","Bay of Quinte","Kanawale","Kanatsiokareke","Tyendinaga","Hahta"],
+        "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
+    },
+    
+
+
+
+	// City-States sorted by cityStateType, name
+
+
+
+        {
+		"name": "Kokand",
+		"adjective": ["Kokand"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "We cant forgive you!",
+		"attacked": "This will be the beggining of your nightmares...",
+		"defeated": "We cannot lose!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [240, 56, 36],
+		"cities": ["Kokand"]
+	},
+         {
+		"name": "Kalat",
+		"adjective": ["Kalat"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "We cant forgive you!",
+		"attacked": "This will be the beggining of your nightmares...",
+		"defeated": "We cannot lose!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [252, 113, 58],
+		"cities": ["Kalat"]
+	},
+        {
+		"name": "Sindv",
+		"adjective": ["Sindv"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "We cant forgive you!",
+		"attacked": "This will be the beggining of your nightmares...",
+		"defeated": "We cannot lose!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 180, 104],
+		"cities": ["Sindv"]
+	},
+{
+		"name": "Macau",
+		"adjective": ["Macau"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "We cant forgive you!",
+		"attacked": "This will be the beggining of your nightmares...",
+		"defeated": "We cannot lose!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [252, 210, 56],
+		"cities": ["Macau"]
+	},
+{
+		"name": "Edinburgh",
+		"adjective": ["Edinburgh"],
+		"cityStateType": "European",
+
+		"declaringWar": "We cant forgive you!",
+		"attacked": "This will be the beggining of your nightmares...",
+		"defeated": "We cannot lose!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [186, 207, 103],
+		"cities": ["Edinburgh"]
+	},
+{
+		"name": "Geneva",
+		"adjective": ["Geneva"],
+		"cityStateType": "European",
+
+		"declaringWar": "We cant forgive you!",
+		"attacked": "This will be the beggining of your nightmares...",
+		"defeated": "We cannot lose!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [102, 186, 28],
+		"cities": ["Geneva"]
+	},
+
+
+
+
+
+
+	{
+		"name": "Malta",
+		"adjective": ["Maltese"],
+		"cityStateType": "European",
+		"startBias": ["Coast"],
+
+		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
+		"attacked": "You can see how fruitless this will be for you... right?",
+		"defeated": "May God grant me these last wishes - peace and prosperity for Malta.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [177, 242, 153],
+		"cities": ["Malta"]
+	},
+	{
+		"name": "Singapore",
+		"adjective": ["Singaporean"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [53, 130, 58],
+		"cities": ["Singapore"]
+	},
+{
+		"name": "Calcutta",
+		"adjective": ["Calcutta"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 184, 170],
+		"cities": ["Calcutta"]
+	},
+
+        {
+		"name": "Timbuktu",
+		"adjective": ["Timbuktu"],
+		"cityStateType": "African",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120, 147, 214],
+		"cities": ["Timbuktu"]
+	},
+        {
+		"name": "Mombasa",
+		"adjective": ["Mombasa"],
+		"cityStateType": "African",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [148, 87, 235],
+		"cities": ["Mombasa"]
+	},
+        {
+		"name": "Great Zimbabwe",
+		"adjective": ["Great Zimbabwe"],
+		"cityStateType": "African",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237, 121, 252],
+		"cities": ["Great Zimbabwe"]
+	},
+{
+		"name": "Lagos",
+		"adjective": ["Lagos"],
+		"cityStateType": "African",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 88, 177],
+		"cities": ["Lagos"]
+	},
+
+
+{
+		"name": "San Francisco",
+		"adjective": ["San Francisco"],
+		"cityStateType": "American",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 30, 94],
+		"cities": ["San Francisco"]
+	},
+{
+		"name": "Montreal",
+		"adjective": ["Montreal"],
+		"cityStateType": "American",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [175, 220, 224],
+		"cities": ["Montreal"]
+	},
+
+        {
+		"name": "Baghdad",
+		"adjective": ["Baghdad"],
+		"cityStateType": "Middle Eastern",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [152, 166, 156],
+		"cities": ["Baghdad"]
+	},
+{
+		"name": "Beirut",
+		"adjective": ["Beirut"],
+		"cityStateType": "Middle Eastern",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 240, 12],
+		"cities": ["Beirut"]
+	},
+
+{
+		"name": "Mecca",
+		"adjective": ["Mecca"],
+		"cityStateType": "Middle Eastern",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 247, 215],
+		"cities": ["Mecca"]
+	},
+
+
+
+
+{
+		"name": "Kelmis",
+		"adjective": ["Kelmis"],
+		"cityStateType": "European",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 197, 242],
+		"cities": ["Kelmis"]
+	},
+{
+		"name": "Cospaia",
+		"adjective": ["Cospaia"],
+		"cityStateType": "European",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 236, 200],
+		"cities": ["Cospaia"]
+	},
+{
+		"name": "Kulangsu",
+		"adjective": ["Kulangsu"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [82, 84, 222],
+		"cities": ["Kulangsu"]
+	},
+{
+		"name": "Jorhat",
+		"adjective": ["Jorhat"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [239, 184, 252],
+		"cities": ["Jorhat"]
+	},
+{
+		"name": "Arochukwu",
+		"adjective": ["Arochukwu"],
+		"cityStateType": "African",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173, 152, 113],
+		"cities": ["Arochukwu"]
+	},
+
+
+{
+		"name": "Lingga",
+		"adjective": ["Lingga"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 138, 119],
+		"cities": ["Lingga"]
+	},
+
+
+{
+		"name": "Khiva",
+		"adjective": ["Khiva"],
+		"cityStateType": "Asian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 247, 215],
+		"cities": ["Khiva"]
+	},
+
+{
+		"name": "Bushong",
+		"adjective": ["Bushong"],
+		"cityStateType": "American",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [50, 240, 82],
+		"cities": ["Bushong"]
+	},
+
+{
+		"name": "Papeete",
+		"adjective": ["Papeete"],
+		"cityStateType": "Polynessian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [73, 94, 130],
+		"cities": ["Papeete"]
+	},
+
+
+
+
+
+
+	//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [245, 24, 0],
+		"uniques": ["Can only heal by pillaging"]
+	}
+]
