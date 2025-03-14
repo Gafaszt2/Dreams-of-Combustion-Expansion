@@ -6,6 +6,179 @@
 //		"innerColor": [255,255,255]
 },
 {
+	"name": "Mahdist Sudan",
+	"leaderName": "Muhammad Ahmad al-Mahdi",
+	"adjective": ["Mahdist Sudan"],
+	"startBias":["Desert"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [23, 209, 82],
+	"innerColor": [28, 28, 28],
+	"uniqueName": "Jihad State",
+	"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
+	"[Gold] cost of purchasing [Camel] units [-60]%","[+2 Gold] from [Camel] tiles [in all cities]","[+1 Production] from [Desert] tiles [in all cities]"],
+	"cities": ["Omdurman",
+"Khartoum",
+"El Obeid",
+"Kassala",
+"Dongola",
+"Berber",
+"Sennar",
+"Wad Madani",
+"Kosti"],
+	"spyNames": ["Saki"]
+},
+{
+	"name": "Vermont",
+	"leaderName": "Thomas Chittenden",
+	"adjective": ["Vermont"],
+	"startBias":["Grassland"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [92, 96, 214],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Mormonism",
+	"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
+	"[Gold] cost of purchasing [Slave] units [+150]%","[Gold] cost of purchasing [Gardener] units [-20]%","[+1 Gold, +2 Food] from [Forest] tiles [in all cities]","[+1 Gold, +1 Food] from [Heavy Labor Plantation] tiles [in all cities]"],
+	"cities": ["Castleton",
+"Burlington",
+"Montpelier",
+"Rutland",
+"St. Albans",
+"Barre",
+"Middlebury",
+"Brattleboro",
+"Newport"],
+	"spyNames": ["Saki"]
+},
+{
+	"name": "Venezuela",
+	"leaderName": "Antonio Guzmán Blanco",
+	"adjective": ["Venezuela"],
+	"startBias":["Plains"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [64, 50, 40],
+	"innerColor": [235, 208, 127],
+	"uniqueName": "Caudillo's Reforms",
+	"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+	"[+5]% growth [in capital]","[+10]% Production when constructing [Heavy Cavalry] units [in capital]","[+20]% Production when constructing [Light Cavalry] units [in all cities]","[+35]% Production when constructing [Armored] units [in all cities]"],
+	"cities": ["Caracas",
+"Maracaibo",
+"Valencia",
+"Barquisimeto",
+"Maracay",
+"Ciudad Bolívar",
+"San Cristóbal",
+"Mérida",
+"Barcelona",
+"Cumaná"],
+	"spyNames": ["Saki"]
+},
+{
+	"name": "Cuba",
+	"leaderName": "José Martí",
+	"adjective": ["Cuba"],
+	"startBias":["Coast"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [143, 229, 255],
+	"innerColor": [28, 67, 79],
+	"uniqueName": "Grito de Baire",
+	"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
+	"[+1 Gold] from all [Production] buildings","[-10]% unhappiness from the number of cities","[+25]% Production when constructing [Production] buildings [in all cities]"],
+	"cities": ["Havana",
+"Santiago de Cuba",
+"Camagüey",
+"Holguín",
+"Guantánamo",
+"Santa Clara",
+"Las Tunas",
+"Bayamo",
+"Cienfuegos",
+"Pinar del Río"],
+	"spyNames": ["Saki"]
+},
+{
+	"name": "Aceh",
+	"leaderName": "Sultan Muhammad Daud Syah",
+	"adjective": ["Aceh"],
+	"startBias":["Coast"],
+	"preferredVictoryType": "Destruction",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [245, 0, 0],
+	"innerColor": [255, 255, 255],
+	"uniqueName": "Ottoman Influence",
+	"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+	"[+1 Faith] per [2] social policies adopted","[+1 Faith] from each Trade Route","[+30]% Production when constructing [Worker] units [in all cities]","Gain a free [Library] [in capital] <upon constructing [Temple]>"],
+	"cities": ["Banda Aceh",
+"Meulaboh",
+"Sabang",
+"Lhokseumawe",
+"Sigli",
+"Tapaktuan",
+"Langsa",
+"Takengon",
+"Calang",
+"Bireuen"],
+	"spyNames": ["Saki"]
+},
+{
 	"name": "Portuguese India",
 	"leaderName": "Afonso de Albuquerque",
 	"adjective": ["Portuguese India"],
@@ -121,7 +294,7 @@
 	"startIntroPart1": "",
 	"startIntroPart2": "",
 
-			"declaringWar": "We cannot tolerate you anymore",
+	"declaringWar": "We cannot tolerate you anymore",
 	"attacked": "The war has hardened us, but it has not broken us",
 	"defeated": "This cannot happen!",
 	"introduction": "Welcome to our land",
@@ -157,7 +330,7 @@
 	"startIntroPart1": "",
 	"startIntroPart2": "",
 
-			"declaringWar": "We cannot tolerate you anymore",
+	"declaringWar": "We cannot tolerate you anymore",
 	"attacked": "The war has hardened us, but it has not broken us",
 	"defeated": "This cannot happen!",
 	"introduction": "Welcome to our land",
@@ -582,33 +755,6 @@
 		"cities": ["Jakarta", "Surabaya", "Yogyakarta", "Medan", "Bandung", "Semarang", "Palembang", "Makassar", "Pekanbaru", "Bandar Lampung", "Batam", "Padang", "Malang", "Denpasar", "Samarinda", "Banjarmasin", "Serang", "Balikpapan", "Pontianak", "Jambi", "Surakarta", "Tanjung Pinang", "Pangkal Pinang", "Gorontalo", "Ternate", "Metro"],
 	},
 {
-		"name": "Cuba",
-		"leaderName": "Fidel Castro",
-		"adjective": ["Cuban"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Political",
-		
-		"startIntroPart1": "",
-		
-		"declaringWar": "For the good of The Empire i must declare war!",
-		"attacked": "You are making a big mistake.",
-		"defeated": "Will this be my last goodbye to you?.",
-		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
-		
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
-		
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-				
-		"outerColor": [161, 213, 240],
-		"innerColor": [207, 23, 2],
-                "favoredReligion": "Catholic",
-		"uniqueName": "¡Viva la Revolución!",
-		"uniques": ["Gain a free [First LA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second LA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third LA Focus] [in capital] <starting from the [Second World War]>",
-		"[+10]% [Happiness] [in all cities] <when at war>", "[+10]% [Gold] [in all cities] <when at war>","[+10]% [Food] [in all cities] <when at war>","[+5]% [Production] [in all cities] <when at war>"],
-		"cities": ["Havana", "Santiago de Cuba", "Camagüey", "Guantanamo", "Pinar del Rio", "Holguin", "Cienfuegos", "Santa Clara", "Matanzas", "Bayamo", "Sancti Spiritus", Florida, Moron, Ciego de Avila, Las Tunas, Artemisa, Nueva Gerona, Cardenas, Baracoa, Palma Soriano, Varadero, Manzanilla, Colon, Contramaestro, Sandino, La Maya, Guanabacoa, Baracoa, Guines, Sagua La Grande"],
-	},
-{
 		"name": "Yugoslavia",
 		"leaderName": "Josip Broz Tito",
 		"adjective": ["Yugoslav"],
@@ -634,7 +780,7 @@
 		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
 		"[+1 Gold, +2 Production] per every [5] [Culture]","New [Military] units start with [15] XP [in all cities] <upon declaring war with a major Civilization>"],
 		"cities": ["Belgrade", "Zagreb", "Sarajevo", "Skopje", "Ljubljana", "Titograd", "Split", "Pristina", "Novi Sad", "Nis", "Banja Luka", "Rijeka", "Maribor", "Mostar", "Osijek", "Zadar", "Kragujevac", "Tuzla", "Subotica", "Pula", "Zenica", "Prizren", "Mitrovica", "Niksic", "Cacak", "Bitola", "Kraljevo", "Kumanovo", "Novi Pazar"],
-	}
+	},
 
         {
 		"name": "Mughal Empire",
@@ -662,7 +808,7 @@
 		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
 		"[-50]% maintenance costs <for [Siege] units>","[+33]% Strength <when fighting in [Hill] tiles>"],
 		"cities": ["Agra","Delhi","Lahore","Fatehpur Sikri","Dhaka","Srinagar","Multan","Allahabad","Kabul"],
-	}
+	},
 {
 		"name": "Bukhara",
 		"leaderName": "Shah Murad",
@@ -689,7 +835,7 @@
 		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
 		"May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <upon founding a Pantheon>","Gain a free [Namazgah] [in all cities] <upon conquering a city>"],
 		"cities": ["Bukhara", "Samarkand", "Qarshi", "Balkh", "Shakhrisabz", "Chardjuy", "Hisor", "G'uzor", "Kattakurgan", "Sheberghan", "Khujand", "Jizzakh", "Maimana", "Chirakchi", "Denau", "Kulab", "Nurota", "Termez", "Kurganteppa", "Karakul", "Kermine", "Vobkent", "Uroteppa"],
-	}
+	},
 {
 		"name": "Dervish State",
 		"leaderName": "Mohammed Hassan",
@@ -716,7 +862,7 @@
 		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
 		"[+2 Faith] from every [Fort]","[+2 Faith] from every [Citadel]","[Light Cavalry] units gain the [Charge] promotion <before the [First World War]>"],
 		"cities": ["Taleh", "Buuhoodle", "Las Anod", "Beledweyne", "Galkayo", "Werder", "Galdogob", "Garoowe", "Dhusamareb", "Mustahil", "Kalabaydh", "Bacadweyn", "Geladin", "Ferfer", "Gori Rit", "Farlibaax", "Dudub", "Xaaballas", "Mugul", "Badhan", "Erigavo", "Aynabo"],
-	}
+	},
 
         {
 		"name": "Mangkunegaran",
@@ -1260,7 +1406,7 @@
 		"Gain a free [Pillaged Town] [in all cities]","[+2 Food] from every [Great Improvement]"],
 		"cities": ["Coyhaique","El Chalten","El Calafate","Ushuaia","Puyuhuapi","Frutillar","Puerto Montt","Castro","Puerto Natales","Punta Arenas"],
 	},
-{
+    {
 		"name": "Sikh Empire",
 		"leaderName": "Maharaja Ranjit Singh",
 		"adjective": ["Sikh"],
@@ -1285,8 +1431,9 @@
 		"uniqueName": "Akal Sahai",
 		"uniques": ["Gain a free [First ME Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second ME Focus] [in capital] <starting from the [First World War]>","Gain a free [Third ME Focus] [in capital] <starting from the [Second World War]>",
 		"Enemy [Wounded] units must spend [1] extra movement points when inside your territory",  "[-20]% Gold cost of upgrading", "Earn [50]% of killed [Wounded] unit's [Cost] as [Faith]"],
-		"cities": ["Lahore","Multan","Peshawar","Kashmir","Gujranwala",Amritsar","Jammu"],
-	},{
+		"cities": ["Lahore","Multan","Peshawar","Kashmir","Gujranwala","Amritsar","Jammu"],
+	},
+	{
 		"name": "Maori",
 		"leaderName": "King Tawhiao",
 		"adjective": ["Maori"],
@@ -1338,7 +1485,7 @@
 		"Tupiniquim","Potiguara","Tabajara","Guaraní","Kaingang","Nheengatu"],
         "spyNames": ["Japa"]
     },
-{
+	{
 		"name": "Burma",
 		"leaderName": "King Mindon Min",
 		"adjective": ["Burma"],
@@ -1357,12 +1504,12 @@
 		
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 				
-		"outerColor": [174, 201, 245],
-		"innerColor": [161, 3, 0],
+		"outerColor": [144, 166, 245],
+		"innerColor": [25, 28, 38],
                 "favoredReligion": "Buddhism",
-		"uniqueName": "Golden Land",
+		"uniqueName": "British Influence",
 		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
-		"[+10]% Production when constructing [Water] units [in all cities]","[+5]% of excess happiness converted to [Science]","[-30]% Gold cost of acquiring tiles [in all cities]"],
+		"[+10]% [Science] [in all cities]","Gain [35]-[50] [Science] <upon conquering a city>","Gain [15]-[20] [Science] <upon adopting [Colonialism]>"],
 		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggi","Bago","Monywa","Myitkyna","Pathein","Sittwe"],
 	},
 {
@@ -1474,35 +1621,39 @@
 		"cities": ["Thang Long","Ho Chi Minh","Da Nang","Hue","Nha Trang","Ha Long","Can Tho","Da Lat","Hai Phong","Vinh"],
 	},
 {
-		"name": "Siam Kingdom",
-		"leaderName": "King Chulalongkorn",
-		"adjective": ["Siamese"],
-		"startBias": ["Jungle"],
-		"preferredVictoryType": "Supremacy",
-		
-		"startIntroPart1": "",
-		
-		"declaringWar": "For the good of The Empire i must declare war!",
-		"attacked": "You are making a big mistake.",
-		"defeated": "Will this be my last goodbye to you?.",
-		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
-		
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
-		
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-				
-		"outerColor": [181, 163, 171],
-		"innerColor": [84, 24, 51],
-                "favoredReligion": "Buddhism",
-		"uniqueName": "Father Governs Childreen",
-		"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
-		"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+15] XP"],
-		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
-			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
-			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
-			"Ban Phai","Loci","Khon Kaen","Surin"],
-	},
+	"name": "Siam",
+	"leaderName": "King Chulalongkorn",
+	"adjective": ["Siamese"],
+	"startBias": ["Jungle"],
+	"preferredVictoryType": "Supremacy",
+	
+	"startIntroPart1": "",
+	
+	"declaringWar": "For the good of The Empire i must declare war!",
+	"attacked": "You are making a big mistake.",
+	"defeated": "Will this be my last goodbye to you?.",
+	"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+	
+	"neutralHello": "Greetings.",
+	"hateHello": "What do YOU want?!",
+	
+	"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+			
+	"outerColor": [224, 205, 175],
+	"innerColor": [227, 0, 0],
+			"favoredReligion": "Buddhism",
+	"uniqueName": "Lao Rebellion",
+	"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
+	"Provides a [Library] in your first [2] cities for free <upon adopting [Imperialism]>",
+	"[Elephant] units gain the [Equipment I] promotion <upon adopting [Revolution]>","[Elephant] units gain the [Equipment II] promotion <upon adopting [Revolution]>",
+	"Empire enters a [2]-turn Golden Age <upon founding a city>",
+	"[2] free [Vanguard Elephant] units appear <upon discovering [Military Science] technology>",
+	"[1] free [Halberdier] units appear <upon discovering [Military Science] technology> <upon founding a city>"],
+	"cities": ["Bangkok","Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
+		"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+		"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+		"Ban Phai","Loci","Khon Kaen","Surin"],
+},
 {
 		"name": "Dutch East India Company",
 		"leaderName": "Jan Pieterszoon Coen",
@@ -3307,7 +3458,7 @@ Nixon Bureaucratic Reforms
 		"innerColor": [94, 1, 27],
 		"uniqueName": "Kivuzu Faction Fracturation",
 		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
-		"[+1 Culture] from every [Slave Labor Plantation]","[+2 Production] from every [Slave Labor Plantation]"],
+		"[+2 Gold] per [2] social policies adopted","[+10]% [Gold] [in all cities]","[Gold] cost of purchasing [Slave] units [-30]%"],
 		"cities": ["Mbanza Kongo", "Soyo" ,"Boma", "Matadi", "Bandundu", "Kinshasa", "Kisantu", "Kikwit","Kananga","Lubumbashi","Likasi"]
 	},
         {
@@ -3492,363 +3643,9 @@ Nixon Bureaucratic Reforms
 		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
 		"[+2 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>","[+2 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>"],
 		"cities": ["Onondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
-			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
+			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
 			"Schoharie","Bay of Quinte","Kanawale","Kanatsiokareke","Tyendinaga","Hahta"],
         "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
-    },
-    
-
-
-
-	// City-States sorted by cityStateType, name
-
-
-
-        {
-		"name": "Kokand",
-		"adjective": ["Kokand"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [240, 56, 36],
-		"cities": ["Kokand"]
-	},
-         {
-		"name": "Kalat",
-		"adjective": ["Kalat"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [252, 113, 58],
-		"cities": ["Kalat"]
-	},
-        {
-		"name": "Sindv",
-		"adjective": ["Sindv"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [247, 180, 104],
-		"cities": ["Sindv"]
-	},
-{
-		"name": "Macau",
-		"adjective": ["Macau"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [252, 210, 56],
-		"cities": ["Macau"]
-	},
-{
-		"name": "Edinburgh",
-		"adjective": ["Edinburgh"],
-		"cityStateType": "European",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [186, 207, 103],
-		"cities": ["Edinburgh"]
-	},
-{
-		"name": "Geneva",
-		"adjective": ["Geneva"],
-		"cityStateType": "European",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [102, 186, 28],
-		"cities": ["Geneva"]
-	},
-
-
-
-
-
-
-	{
-		"name": "Malta",
-		"adjective": ["Maltese"],
-		"cityStateType": "European",
-		"startBias": ["Coast"],
-
-		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
-		"attacked": "You can see how fruitless this will be for you... right?",
-		"defeated": "May God grant me these last wishes - peace and prosperity for Malta.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [177, 242, 153],
-		"cities": ["Malta"]
-	},
-	{
-		"name": "Singapore",
-		"adjective": ["Singaporean"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [53, 130, 58],
-		"cities": ["Singapore"]
-	},
-{
-		"name": "Calcutta",
-		"adjective": ["Calcutta"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [90, 184, 170],
-		"cities": ["Calcutta"]
-	},
-
-        {
-		"name": "Timbuktu",
-		"adjective": ["Timbuktu"],
-		"cityStateType": "African",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [120, 147, 214],
-		"cities": ["Timbuktu"]
-	},
-        {
-		"name": "Mombasa",
-		"adjective": ["Mombasa"],
-		"cityStateType": "African",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [148, 87, 235],
-		"cities": ["Mombasa"]
-	},
-        {
-		"name": "Great Zimbabwe",
-		"adjective": ["Great Zimbabwe"],
-		"cityStateType": "African",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [237, 121, 252],
-		"cities": ["Great Zimbabwe"]
-	},
-{
-		"name": "Lagos",
-		"adjective": ["Lagos"],
-		"cityStateType": "African",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [232, 88, 177],
-		"cities": ["Lagos"]
-	},
-
-
-{
-		"name": "San Francisco",
-		"adjective": ["San Francisco"],
-		"cityStateType": "American",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [232, 30, 94],
-		"cities": ["San Francisco"]
-	},
-{
-		"name": "Montreal",
-		"adjective": ["Montreal"],
-		"cityStateType": "American",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [175, 220, 224],
-		"cities": ["Montreal"]
-	},
-
-        {
-		"name": "Baghdad",
-		"adjective": ["Baghdad"],
-		"cityStateType": "Middle Eastern",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [152, 166, 156],
-		"cities": ["Baghdad"]
-	},
-{
-		"name": "Beirut",
-		"adjective": ["Beirut"],
-		"cityStateType": "Middle Eastern",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [247, 240, 12],
-		"cities": ["Beirut"]
-	},
-
-
-
-
-{
-		"name": "Kelmis",
-		"adjective": ["Kelmis"],
-		"cityStateType": "European",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [170, 197, 242],
-		"cities": ["Kelmis"]
-	},
-{
-		"name": "Cospaia",
-		"adjective": ["Cospaia"],
-		"cityStateType": "European",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [247, 236, 200],
-		"cities": ["Cospaia"]
-	},
-{
-		"name": "Kulangsu",
-		"adjective": ["Kulangsu"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [82, 84, 222],
-		"cities": ["Kulangsu"]
-	},
-{
-		"name": "Jorhat",
-		"adjective": ["Jorhat"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [239, 184, 252],
-		"cities": ["Jorhat"]
-	},
-{
-		"name": "Arochukwu",
-		"adjective": ["Arochukwu"],
-		"cityStateType": "African",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [173, 152, 113],
-		"cities": ["Arochukwu"]
-	},
-
-
-{
-		"name": "Lingga",
-		"adjective": ["Lingga"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [247, 138, 119],
-		"cities": ["Lingga"]
-	},
-
-
-{
-		"name": "Khiva",
-		"adjective": ["Khiva"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [232, 247, 215],
-		"cities": ["Khiva"]
-	},
-
-{
-		"name": "Bushong",
-		"adjective": ["Bushong"],
-		"cityStateType": "American",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [50, 240, 82],
-		"cities": ["Bushong"]
-	},
-
-{
-		"name": "Papeete",
-		"adjective": ["Papeete"],
-		"cityStateType": "Polynessian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [73, 94, 130],
-		"cities": ["Papeete"]
-	},
-
-
-
-
-
-
-	//Barbarian
-	{
-		"name": "Barbarians",
-		"outerColor": [0,0,0],
-        "innerColor": [245, 24, 0],
-		"uniques": ["Can only heal by pillaging"]
-	}
+    }
 ]
