@@ -1646,9 +1646,7 @@
 	"uniques": ["Gain a free [First SEA Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second SEA Focus] [in capital] <starting from the [First World War]>","Gain a free [Third SEA Focus] [in capital] <starting from the [Second World War]>",
 	"Provides a [Library] in your first [2] cities for free <upon adopting [Imperialism]>",
 	"[Elephant] units gain the [Equipment I] promotion <upon adopting [Revolution]>","[Elephant] units gain the [Equipment II] promotion <upon adopting [Revolution]>",
-	"Empire enters a [2]-turn Golden Age <upon founding a city>",
-	"[2] free [Vanguard Elephant] units appear <upon discovering [Military Science] technology>",
-	"[1] free [Halberdier] units appear <upon discovering [Military Science] technology> <upon founding a city>"],
+	"Empire enters a [2]-turn Golden Age <upon founding a city>"],
 	"cities": ["Bangkok","Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 		"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 		"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
@@ -3210,7 +3208,7 @@ Nixon Bureaucratic Reforms
 		"favoredReligion": "Orthodox",
 		"uniqueName": "Spirit of Adwa",
 		"uniques": ["Gain a free [First AFR Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second AFR Focus] [in capital] <starting from the [First World War]>","Gain a free [Third AFR Focus] [in capital] <starting from the [Second World War]>",
-		"[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"[+25]% [Culture] [in all cities] <during a Golden Age>","[+25]% [Faith] [in all cities] <during a Golden Age>","[+25]% [Gold] [in all cities] <during a Golden Age>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
 			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
@@ -3562,7 +3560,7 @@ Nixon Bureaucratic Reforms
 		"innerColor": [179, 245, 229],
 		"uniqueName": "Steppe Sense",
 		"uniques": ["Gain a free [First Generic Focus] [in capital] <starting from the [Industrial Era]>","Gain a free [Second Generic Focus] [in capital] <starting from the [First World War]>","Gain a free [Third Generic Focus] [in capital] <starting from the [Second World War]>",
-		"[+1 Culture] from every [Ranch]","[+2 Faith] from every [Stable]","[+1] Sight"],
+		"[+1 Food] from every [Ranch] <during a Golden Age>","[+1 Food] from every [Horses]","[+1 Food] from every [Stable]","[+1] Sight"],
 		"cities": ["Astana","Almaty","Shymkent","Karaganda","Aktobe","Taraz","Pavlodar","Oskemen","Semey","Atyrau","Kostanay","Kyzylorda","Uralsk","Petropavl","Aktau"]
 	},
         {
